@@ -5,7 +5,10 @@ from parse.ocr_utils import ocr_table, ocr_standard
 
 
 INPUT_DIR = "./data/input_gifs"
-OUTPUT_CSV = "./output/parsed_results2.csv"
+OUTPUT_CSV = "./output/parsed_results.csv"
+OCR_FAIL_LOG = "./output/ocr_failed_rows.csv"
+
+SKIP_PREVIOUS_ERRORS = True
 
 BATCH_SIZE = 3
 
@@ -18,8 +21,13 @@ if __name__ == "__main__":
         df_master = pd.DataFrame()
         processed = set()
 
+    if SKIP_PREVIOUS_ERRORS and os.path.exists(OCR_FAIL_LOG):
+        error_files = set(pd.read_csv(OCR_FAIL_LOG)['FILENAME'].unique())
+    else:
+        error_files = set()
+
     file_list = [f for f in os.listdir(INPUT_DIR) if f.lower().endswith('.gif')]
-    file_list = [f for f in file_list if f not in processed]
+    file_list = [f for f in file_list if f not in processed and (f not in error_files if SKIP_PREVIOUS_ERRORS else True)]
     print(f"Found {len(file_list)} unprocessed GIFs.\n")
 
     batch = []
@@ -51,6 +59,6 @@ if __name__ == "__main__":
 
             if bad_log:
                 error_df = pd.DataFrame(bad_log)
-                error_df.to_csv("output/ocr_failed_rows.csv", mode='a', index=False, header=not os.path.exists("output/ocr_failed_rows.csv"))
+                error_df.to_csv("output/ocr_failed_rows.csv", mode='a', index=False, header=not os.path.exists(OCR_FAIL_LOG))
                 bad_log = []  # ✅ reset for next batch
                 
