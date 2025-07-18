@@ -48,7 +48,7 @@ The standardized dataset contains the following fields:
 | `circuit_id`            | Matched to F1DB circuit |
 | `position_*`            | Classification result |
 | `driver_id`             | F1DB-compatible slug |
-| `entrant_id`, `constructor_id`, `engine_manufacturer_id` | Resolved from `entrant_raw` |
+| `entrant_id`, `constructor_id`, `engine_manufacturer_id` | F1DB compatible |
 | `lap_time`, `lap_time_millis` | Raw + numeric lap time |
 | `laps`, `lap_number_fastest` | Laps driven, and fastest lap number |
 
