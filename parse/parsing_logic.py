@@ -6,7 +6,7 @@ from thefuzz import fuzz, process
 from collections import defaultdict
 
 # ~~~~ Defined Constants ~~~~~ #
-from parse.constants import months, nationalities
+from parse.constants import MONTHS, NATIONALITIES
 
 # ~~~~ Instantiated OCR models ~~~~~ #
 from parse.ocr_utils import ocr_standard, ocr_table, load_image, preprocess_image
@@ -37,8 +37,8 @@ def extract_date(date_lines):
 
     if len(tokens) >= 4 and tokens[-3].isdigit(): # date line usually long, with date at end
 
-        if tokens[-2] not in months: # Slight OCR error - fuzzy match to fix
-            month = process.extract(tokens[-2], months, limit=1)[0][0]
+        if tokens[-2] not in MONTHS: # Slight OCR error - fuzzy match to fix
+            month = process.extract(tokens[-2], MONTHS, limit=1)[0][0]
             return tokens[-3]+' '+month+' '+tokens[-1]
         
         else:
@@ -119,6 +119,9 @@ def parse_ocr_to_dataframe(ocr_result):
     parsed_rows = []
     bad_rows = []
 
+    if rows is None:
+        raise ValueError("No rows detected from OCR parsing.")  
+
     for row in rows[1:]:
         # Skip rows that are not data - usually infringements
         joined = ' '.join(row)
@@ -157,7 +160,7 @@ def parse_ocr_to_dataframe(ocr_result):
             while start < len(tokens):
                 token = re.sub(r'[^A-Za-z]', '', tokens[start])  # remove dots/punctuation
                 token_upper = token.upper()
-                if token_upper in nationalities:
+                if token_upper in NATIONALITIES:
                     nat = token_upper
                     break
                 name_tokens.append(tokens[start])

@@ -67,7 +67,7 @@ def preprocess_image(img, return_title=True):
     table_sharp = unsharp_mask(table_up)
     
     # Bottom-right corner: assumed to contain the date
-    date_crop = img[int(0.97*h):h, int(0.7*w):w]
+    date_crop = img[int(0.963*h):h, int(0.7*w):w]
     date_up = cv2.resize(date_crop, None, fx=2, fy=2, interpolation=cv2.INTER_LINEAR)
     date_sharp = unsharp_mask(date_up, kernel_size=(5,5), sigma=1.0, amount=1.2, threshold=0.0)
 
@@ -78,7 +78,7 @@ def preprocess_image(img, return_title=True):
 
     # Optionally include top header for circuit metadata
     if return_title:
-        title_crop = img[0:int(0.086*h), 0:int(0.5*w)]
+        title_crop = img[0:int(0.09*h), 0:int(0.5*w)]
         crops['title_img'] = title_crop
 
     return crops

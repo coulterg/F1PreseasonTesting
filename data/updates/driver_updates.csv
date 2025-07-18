@@ -1,0 +1,25 @@
+﻿id,name,first_name,last_name,full_name,abbreviation,permanent_number,gender,date_of_birth,date_of_death,place_of_birth,country_of_birth_country_id,nationality_country_id,second_nationality_country_id,best_championship_position,best_starting_grid_position,best_race_result,total_championship_wins,total_race_entries,total_race_starts,total_race_wins,total_race_laps,total_podiums,total_points,total_championship_points,total_pole_positions,total_fastest_laps,total_driver_of_the_day,total_grand_slams
+gary-paffett,Gary Paffett,Gary,Paffett,Gary James Paffett,,,MALE,1981-03-24,,Bromley,united-kingdom,united-kingdom,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+marko-asmer,Marko Asmer,Marko,Asmer,Marko Asmer,,,MALE,1984-07-30,,Tallinn,estonia,estonia,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+sebastien-loeb,Sébastien Loeb,Sébastien,Loeb,Sébastien Loeb,,,MALE,1974-02-26,,Haguenau,france,france,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+mike-conway,Mike Conway,Mike,Conway,Michael Robert Conway,,,MALE,1983-08-19,,Bromley,united-kingdom,united-kingdom,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+bertrand-baguette,Bertrand Baguette,Bertrand,Baguette,Bertrand Marcel Nicolas Baguette,,,MALE,1986-02-23,,Verviers,belgium,belgium,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+oliver-turvey,Oliver Turvey,Oliver,Turvey,Oliver Jonathan Turvey,,,MALE,1987-04-01,,Penrith,united-kingdom,united-kingdom,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+tung-ho-pin,Tung Ho-Pin,Tung,Ho-Pin,Tung Ho-Pin,,,MALE,1982-12-04,,Velp,netherlands,china,netherlands,,,,0,0,0,0,0,0,0,0,0,0,0,0
+mirko-bortolotti,Mirko Bortolotti,Mirko,Bortolotti,Mirko Bortolotti,,,MALE,1990-01-10,,Trento,italy,italy,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+pablo-sanchez,Pablo Sánchez,Pablo,Sánchez,Pablo Sánchez Lopez,,,MALE,1990-02-09,,Mexico City,mexico,mexico,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+daniel-zampieri,Daniel Zampieri,Daniel,Zampieri,Daniel Zampieri,,,MALE,1990-05-22,,Rome,italy,italy,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+antonio-felix-da-costa,António Félix da Costa,António,Félix da Costa,António Maria de Mello Breyner Félix da Costa,,,MALE,1991-08-31,,Cascais,portugal,portugal,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+vladimir-arabadzhiev,Vladimir Arabadzhiev,Vladimir,Arabadzhiev,Vladimir Arabadzhiev,,,MALE,1984-03-16,,Plovdiv,bulgaria,bulgaria,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+stefano-coletti,Stefano Coletti,Stefano,Coletti,Stefano Coletti,,,MALE,1989-04-06,,La Colle,monaco,monaco,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+adrian-quaife-hobbs,Adrian Quaife-Hobbs,Adrian,Quaife-Hobbs,Adrian Rodney Quaife-Hobbs,,,MALE,1991-02-03,,Pembury,united-kingdom,united-kingdom,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+kevin-korjus,Kevin Korjus,Kevin,Korjus,Kevin Korjus,,,MALE,1993-01-09,,Tallinn,estonia,estonia,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+kevin-ceccon,Kevin Ceccon,Kevin,Ceccon,Kevin Ceccon,,,MALE,1993-09-24,,Clusone,italy,italy,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+nick-yelloly,Nick Yelloly,Nick,Yelloly,Nicholas Jon Yelloly,,,MALE,1990-12-03,,Stafford,united-kingdom,united-kingdom,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+antonio-fuoco,Antonio Fuoco,Antonio,Fuoco,Antonio Fuoco,,,MALE,1996-05-20,,Cariata,italy,italy,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+sergio-sette-camara,Sérgio Sette Câmara,Sérgio,Sette Câmara,Sérgio Santos Sette Câmara Filho,,,MALE,1998-05-23,,Belo Horizonte,brazil,brazil,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+gustav-malja,Gustav Malja,Gustav,Malja,Gustav Koch Malja,,,MALE,1995-11-04,,Malmö,sweden,sweden,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+luca-ghiotto,Luca Ghiotto,Luca,Ghiotto,Luca Ghiotto,,,MALE,1995-02-24,,Arzignano,italy,italy,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+nobuharu-matsushita,Nobuharu Matsushita,Nobuharu,Matsushita,Nobuharu Matsushita,,,MALE,1993-10-13,,Saitama,japan,japan,,,,,0,0,0,0,0,0,0,0,0,0,0,0
+andy-soucek,Andy Soucek,Andy,Soucek,Andy Christian Soucek,,,MALE,1985-06-14,,Madrid,spain,spain,austria,,,,0,0,0,0,0,0,0,0,0,0,0,0
+josef-kral,Josef Král,Josef,Král,Josef Král,,,MALE,1990-06-15,,Dvůr Králové,czech-republic,czech-republic,,,,,0,0,0,0,0,0,0,0,0,0,0,0

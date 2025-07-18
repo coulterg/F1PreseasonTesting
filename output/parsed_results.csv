@@ -1408,469 +1408,872 @@ c,8,Jenson Button,GBR,Vodafone Mclaren Mercedes,1:21.530,62,35.0,08 February 201
 9,20,Heikki Kovalainen,FIN,Caterham F1 Team,1:26.035,31,25.0,21 February 2012,Barcelona,2012,2,1,2012-2-1.gif
 10,10,Romain Grosjean,FRA,Lotus F1 Team,1:26.809,7,6.0,21 February 2012,Barcelona,2012,2,1,2012-2-1.gif
 11,25,Charles Pic,FRA,Marussia F1 Team,1:28.026,121,119.0,21 February 2012,Barcelona,2012,2,1,2012-2-1.gif
-1,31,Luca Badoer,ITA,Scuderia Ferrari Ivtarboro,1:21.013,95,49,73 June 2000,,2008,9,2,2008-9-2.gif
-2,41,Pedro Dela Rosa,ESP,Vodafone Mclaren Mercedes,1:21.374,111,21,73 June 2000,,2008,9,2,2008-9-2.gif
-3,12,Timo Glock,GER,Panasonic Toyota Racing,1:21.573,87,81,73 June 2000,,2008,9,2,2008-9-2.gif
-,47,Nico Rosberg,GER,Attwlliams,1:21.614,98,46,73 June 2000,,2008,9,2,2008-9-2.gif
-5,9,David Coulthard,GBR,Red Bui Racing,1:21.668,98,67,73 June 2000,,2008,9,2,2008-9-2.gif
-6,4,Robert Kubica,POL,B Sauber F1 Team,1:21.761,114,37,73 June 2000,,2008,9,2,2008-9-2.gif
-7,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:21.950,122,82,73 June 2000,,2008,9,2,2008-9-2.gif
-8,6,Nelson Piquet,BRA,Ing Renaut F1,1:22.037,129,118,73 June 2000,,2008,9,2,2008-9-2.gif
-9,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:22.395,101,98,73 June 2000,,2008,9,2,2008-9-2.gif
-1,6,Nelson Piquet,BRA,Ing Renaut F1,1:20.076,112,46,,,2008,9,3,2008-9-3.gif
-2,41,Pedro Dela Rosa,ESP,Wdafone M Laren Mercedes,1:20.402,82,45,,,2008,9,3,2008-9-3.gif
+1,31,Luca Badoer,ITA,Scuderia Ferrari Ivtarboro,1:21.013,95,49.0,73 June 2000,,2008,9,2,2008-9-2.gif
+2,41,Pedro Dela Rosa,ESP,Vodafone Mclaren Mercedes,1:21.374,111,21.0,73 June 2000,,2008,9,2,2008-9-2.gif
+3,12,Timo Glock,GER,Panasonic Toyota Racing,1:21.573,87,81.0,73 June 2000,,2008,9,2,2008-9-2.gif
+,47,Nico Rosberg,GER,Attwlliams,1:21.614,98,46.0,73 June 2000,,2008,9,2,2008-9-2.gif
+5,9,David Coulthard,GBR,Red Bui Racing,1:21.668,98,67.0,73 June 2000,,2008,9,2,2008-9-2.gif
+6,4,Robert Kubica,POL,B Sauber F1 Team,1:21.761,114,37.0,73 June 2000,,2008,9,2,2008-9-2.gif
+7,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:21.950,122,82.0,73 June 2000,,2008,9,2,2008-9-2.gif
+8,6,Nelson Piquet,BRA,Ing Renaut F1,1:22.037,129,118.0,73 June 2000,,2008,9,2,2008-9-2.gif
+9,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:22.395,101,98.0,73 June 2000,,2008,9,2,2008-9-2.gif
+1,6,Nelson Piquet,BRA,Ing Renaut F1,1:20.076,112,46.0,,,2008,9,3,2008-9-3.gif
+2,41,Pedro Dela Rosa,ESP,Wdafone M Laren Mercedes,1:20.402,82,45.0,,,2008,9,3,2008-9-3.gif
 3,31,Luca Badoer,ITA,Scuderia Ferrari Tvtarboro,1:20.680,34,,,,2008,9,3,2008-9-3.gif
-4,10,Mark Webber,AUS,Red Bul Racing,1:21.037,92,42,,,2008,9,3,2008-9-3.gif
-5,12,Timo Glock,GER,Panasonic Toyota Racing,1:21.158,86,17,,,2008,9,3,2008-9-3.gif
-,63,Nick Heidfeld,GER,B Sauber F1 Team,1:21.295,88,51,,,2008,9,3,2008-9-3.gif
-7,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:21.672,83,49,,,2008,9,3,2008-9-3.gif
-8,34,Nico Hulkenberg,GER,Attwlliams,1:21.674,60,23,,,2008,9,3,2008-9-3.gif
-9,15,Sebastianvettel,GER,Scuderia Toro Rosso,1:21.880,72,36,,,2008,9,3,2008-9-3.gif
-1,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:31.360,26,12,,,2008,8,3,2008-8-3.gif
-2,6,Nelson Piquet,BRA,Ing Renaut F1,1:31.634,60,18,,,2008,8,3,2008-8-3.gif
-3,41,Pedro Dela Rosa,ESP,Vodafone Mclaren Mercedes,1:32.143,53,9,,,2008,8,3,2008-8-3.gif
-4,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:32.480,49,14,,,2008,8,3,2008-8-3.gif
-5,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:33.246,19,5,,,2008,8,3,2008-8-3.gif
-6,3,Nick Heidfeld,GER,B Sauber F1 Team,1:33.371,30,9,,,2008,8,3,2008-8-3.gif
-7,35,Sebastien Bubm,SUI,Red Bul Racing,1:34.064,16,9,,,2008,8,3,2008-8-3.gif
-8,21,Giancarlofisichella,ITA,Force India F1,1:34.071,31,4,,,2008,8,3,2008-8-3.gif
-9,16,Jenson Button,GBR,Honda Racing F1 Team,1:36.501,19,3,,,2008,8,3,2008-8-3.gif
-10,20,Adrian Sutil,GER,Force India F1,1:43.877,13,11,,,2008,8,3,2008-8-3.gif
-11,34,Nico Hulkenberg,GER,Attwilliams,1:44.741,35,2,,,2008,8,3,2008-8-3.gif
-1,37,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:18.073,128,39,,,2008,16,2,2008-16-2.gif
-2,57,Takuma Sato,JPN,Scuderia Toro Rosso,1:18.601,38,21,,,2008,16,2,2008-16-2.gif
-3,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:18.673,81,55,,,2008,16,2,2008-16-2.gif
-4,41,Pedro Dela Rosa,ESP,Vodafone Mclaren Mercedes,1:19.032,78,51,,,2008,16,2,2008-16-2.gif
-5,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:19.334,89,47,,,2008,16,2,2008-16-2.gif
-6,23,Heikki Kovalainen,FIN,Vodafone Mc Laren Mercedes,1:19.631,64,19,,,2008,16,2,2008-16-2.gif
-7,5,Femando Alonso,ESP,Ing Renaut F1,1:19.907,106,52,,,2008,16,2,2008-16-2.gif
-8,7,Nico Rosberg,GER,Attwilliams,1:20.309,122,84,,,2008,16,2,2008-16-2.gif
-9,3,Nick Heidfeld,GER,B Sauber F1 Team,1:20.365,87,70,,,2008,16,2,2008-16-2.gif
-10,2,Felipe Massa,BRA,Scuderia Ferrari Mtarboro,1:20.490,27,13,,,2008,16,2,2008-16-2.gif
-11,4,Robert Kubica,POL,Bmsauber F1 Team,1:20.954,38,19,,,2008,16,2,2008-16-2.gif
-1,23,Heikki Kovalainen,FIN,Vodafone Mclaren Mercedes,1:17.974,96,16,,,2008,4,3,2008-4-3.gif
-2,9,David Coulthard,GBR,Red Bul Racing,1:18.485,107,19,,,2008,4,3,2008-4-3.gif
-3,8,Kazuki Nakajma,JPN,Attwlliams,1:19.117,90,17,,,2008,4,3,2008-4-3.gif
-4,22,Lewis Hamilton,GBR,Wodafone M Laren Mercedes,1:19.429,83,33,,,2008,4,3,2008-4-3.gif
-,54,Robert Kubica,POL,B Sauber F1 Team,1:19.535,129,22,,,2008,4,3,2008-4-3.gif
-6,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:19.688,53,24,,,2008,4,3,2008-4-3.gif
-7,6,Nelson Piquet,BRA,Ing Renaut F1,1:19.817,134,27,,,2008,4,3,2008-4-3.gif
-8,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:19.848,101,11,,,2008,4,3,2008-4-3.gif
-9,3,Nick Heidfeld,GER,B Sauber F1 Team,1:19.934,116,31,,,2008,4,3,2008-4-3.gif
-10,10,Mark Webber,AUS,Red Bul Racing,1:19.980,107,18,,,2008,4,3,2008-4-3.gif
-11,21,Giancarlofisichella,ITA,Force India F1,1:20.669,89,87,,,2008,4,3,2008-4-3.gif
-12,16,Jenson Button,GBR,Honda Racing F1 Team,1:20.988,121,3,,,2008,4,3,2008-4-3.gif
-13,19,Anthomy Davidson,GBR,Super Aguri F1 Team,1:21.010,103,16,,,2008,4,3,2008-4-3.gif
-14,34,Nico Hulkenberg,GER,Attwilliams,1:21.116,71,38,,,2008,4,3,2008-4-3.gif
-15,33,Lucas Dgrass,BRA,Ing Renaut F1,1:21.286,73,12,,,2008,4,3,2008-4-3.gif
-16,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.605,103,8,,,2008,4,3,2008-4-3.gif
-1,10,Mark Webber,AUS,Red Bul Racing,1:18.628,72,17,,,2008,4,2,2008-4-2.gif
-2,7,Nico Rosberg,GER,Attwlliams,1:19.091,98,22,,,2008,4,2,2008-4-2.gif
-3,8,Kazuki Nakajma,JPN,Attwlliams,1:19.215,91,18,,,2008,4,2,2008-4-2.gif
-,45,Femando Alonso,ESP,Ing Renaut F1,1:19.710,104,17,,,2008,4,2,2008-4-2.gif
-,54,Robert Kubica,POL,B Sauber F1 Team,1:19.829,116,37,,,2008,4,2,2008-4-2.gif
-6,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:19.857,68,37,,,2008,4,2,2008-4-2.gif
-7,9,David Coulthari,GBR,Red Bul Racing,1:19.883,97,92,,,2008,4,2,2008-4-2.gif
-8,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:19.889,114,37,,,2008,4,2,2008-4-2.gif
-9,6,Nelson Piquet,BRA,Ing Renaut F1,1:20.014,110,39,,,2008,4,2,2008-4-2.gif
-10,23,Heikki Kovalainen,FIN,Vodafone Mc Laren Mercedes,1:20.152,84,32,,,2008,4,2,2008-4-2.gif
-11,3,Nick Heidfeld,GER,B Sauber F1 Team,1:20.201,109,15,,,2008,4,2,2008-4-2.gif
-12,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.536,76,12,,,2008,4,2,2008-4-2.gif
-13,16,Jenson Button,GBR,Honda Racing F1 Team,1:21.147,85,47,,,2008,4,2,2008-4-2.gif
-14,18,Takuma Sato,JPN,Super Aguri F1 Team,1:21.376,101,89,,,2008,4,2,2008-4-2.gif
-15,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:21.710,58,48,,,2008,4,2,2008-4-2.gif
-16,20,Adrian Sutil,GER,Force India F1,1:22.244,98,23,,,2008,4,2,2008-4-2.gif
+4,10,Mark Webber,AUS,Red Bul Racing,1:21.037,92,42.0,,,2008,9,3,2008-9-3.gif
+5,12,Timo Glock,GER,Panasonic Toyota Racing,1:21.158,86,17.0,,,2008,9,3,2008-9-3.gif
+,63,Nick Heidfeld,GER,B Sauber F1 Team,1:21.295,88,51.0,,,2008,9,3,2008-9-3.gif
+7,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:21.672,83,49.0,,,2008,9,3,2008-9-3.gif
+8,34,Nico Hulkenberg,GER,Attwlliams,1:21.674,60,23.0,,,2008,9,3,2008-9-3.gif
+9,15,Sebastianvettel,GER,Scuderia Toro Rosso,1:21.880,72,36.0,,,2008,9,3,2008-9-3.gif
+1,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:31.360,26,12.0,,,2008,8,3,2008-8-3.gif
+2,6,Nelson Piquet,BRA,Ing Renaut F1,1:31.634,60,18.0,,,2008,8,3,2008-8-3.gif
+3,41,Pedro Dela Rosa,ESP,Vodafone Mclaren Mercedes,1:32.143,53,9.0,,,2008,8,3,2008-8-3.gif
+4,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:32.480,49,14.0,,,2008,8,3,2008-8-3.gif
+5,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:33.246,19,5.0,,,2008,8,3,2008-8-3.gif
+6,3,Nick Heidfeld,GER,B Sauber F1 Team,1:33.371,30,9.0,,,2008,8,3,2008-8-3.gif
+7,35,Sebastien Bubm,SUI,Red Bul Racing,1:34.064,16,9.0,,,2008,8,3,2008-8-3.gif
+8,21,Giancarlofisichella,ITA,Force India F1,1:34.071,31,4.0,,,2008,8,3,2008-8-3.gif
+9,16,Jenson Button,GBR,Honda Racing F1 Team,1:36.501,19,3.0,,,2008,8,3,2008-8-3.gif
+10,20,Adrian Sutil,GER,Force India F1,1:43.877,13,11.0,,,2008,8,3,2008-8-3.gif
+11,34,Nico Hulkenberg,GER,Attwilliams,1:44.741,35,2.0,,,2008,8,3,2008-8-3.gif
+1,37,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:18.073,128,39.0,,,2008,16,2,2008-16-2.gif
+2,57,Takuma Sato,JPN,Scuderia Toro Rosso,1:18.601,38,21.0,,,2008,16,2,2008-16-2.gif
+3,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:18.673,81,55.0,,,2008,16,2,2008-16-2.gif
+4,41,Pedro Dela Rosa,ESP,Vodafone Mclaren Mercedes,1:19.032,78,51.0,,,2008,16,2,2008-16-2.gif
+5,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:19.334,89,47.0,,,2008,16,2,2008-16-2.gif
+6,23,Heikki Kovalainen,FIN,Vodafone Mc Laren Mercedes,1:19.631,64,19.0,,,2008,16,2,2008-16-2.gif
+7,5,Femando Alonso,ESP,Ing Renaut F1,1:19.907,106,52.0,,,2008,16,2,2008-16-2.gif
+8,7,Nico Rosberg,GER,Attwilliams,1:20.309,122,84.0,,,2008,16,2,2008-16-2.gif
+9,3,Nick Heidfeld,GER,B Sauber F1 Team,1:20.365,87,70.0,,,2008,16,2,2008-16-2.gif
+10,2,Felipe Massa,BRA,Scuderia Ferrari Mtarboro,1:20.490,27,13.0,,,2008,16,2,2008-16-2.gif
+11,4,Robert Kubica,POL,Bmsauber F1 Team,1:20.954,38,19.0,,,2008,16,2,2008-16-2.gif
+1,23,Heikki Kovalainen,FIN,Vodafone Mclaren Mercedes,1:17.974,96,16.0,,,2008,4,3,2008-4-3.gif
+2,9,David Coulthard,GBR,Red Bul Racing,1:18.485,107,19.0,,,2008,4,3,2008-4-3.gif
+3,8,Kazuki Nakajma,JPN,Attwlliams,1:19.117,90,17.0,,,2008,4,3,2008-4-3.gif
+4,22,Lewis Hamilton,GBR,Wodafone M Laren Mercedes,1:19.429,83,33.0,,,2008,4,3,2008-4-3.gif
+,54,Robert Kubica,POL,B Sauber F1 Team,1:19.535,129,22.0,,,2008,4,3,2008-4-3.gif
+6,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:19.688,53,24.0,,,2008,4,3,2008-4-3.gif
+7,6,Nelson Piquet,BRA,Ing Renaut F1,1:19.817,134,27.0,,,2008,4,3,2008-4-3.gif
+8,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:19.848,101,11.0,,,2008,4,3,2008-4-3.gif
+9,3,Nick Heidfeld,GER,B Sauber F1 Team,1:19.934,116,31.0,,,2008,4,3,2008-4-3.gif
+10,10,Mark Webber,AUS,Red Bul Racing,1:19.980,107,18.0,,,2008,4,3,2008-4-3.gif
+11,21,Giancarlofisichella,ITA,Force India F1,1:20.669,89,87.0,,,2008,4,3,2008-4-3.gif
+12,16,Jenson Button,GBR,Honda Racing F1 Team,1:20.988,121,3.0,,,2008,4,3,2008-4-3.gif
+13,19,Anthomy Davidson,GBR,Super Aguri F1 Team,1:21.010,103,16.0,,,2008,4,3,2008-4-3.gif
+14,34,Nico Hulkenberg,GER,Attwilliams,1:21.116,71,38.0,,,2008,4,3,2008-4-3.gif
+15,33,Lucas Dgrass,BRA,Ing Renaut F1,1:21.286,73,12.0,,,2008,4,3,2008-4-3.gif
+16,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.605,103,8.0,,,2008,4,3,2008-4-3.gif
+1,10,Mark Webber,AUS,Red Bul Racing,1:18.628,72,17.0,,,2008,4,2,2008-4-2.gif
+2,7,Nico Rosberg,GER,Attwlliams,1:19.091,98,22.0,,,2008,4,2,2008-4-2.gif
+3,8,Kazuki Nakajma,JPN,Attwlliams,1:19.215,91,18.0,,,2008,4,2,2008-4-2.gif
+,45,Femando Alonso,ESP,Ing Renaut F1,1:19.710,104,17.0,,,2008,4,2,2008-4-2.gif
+,54,Robert Kubica,POL,B Sauber F1 Team,1:19.829,116,37.0,,,2008,4,2,2008-4-2.gif
+6,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:19.857,68,37.0,,,2008,4,2,2008-4-2.gif
+7,9,David Coulthari,GBR,Red Bul Racing,1:19.883,97,92.0,,,2008,4,2,2008-4-2.gif
+8,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:19.889,114,37.0,,,2008,4,2,2008-4-2.gif
+9,6,Nelson Piquet,BRA,Ing Renaut F1,1:20.014,110,39.0,,,2008,4,2,2008-4-2.gif
+10,23,Heikki Kovalainen,FIN,Vodafone Mc Laren Mercedes,1:20.152,84,32.0,,,2008,4,2,2008-4-2.gif
+11,3,Nick Heidfeld,GER,B Sauber F1 Team,1:20.201,109,15.0,,,2008,4,2,2008-4-2.gif
+12,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.536,76,12.0,,,2008,4,2,2008-4-2.gif
+13,16,Jenson Button,GBR,Honda Racing F1 Team,1:21.147,85,47.0,,,2008,4,2,2008-4-2.gif
+14,18,Takuma Sato,JPN,Super Aguri F1 Team,1:21.376,101,89.0,,,2008,4,2,2008-4-2.gif
+15,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:21.710,58,48.0,,,2008,4,2,2008-4-2.gif
+16,20,Adrian Sutil,GER,Force India F1,1:22.244,98,23.0,,,2008,4,2,2008-4-2.gif
 1,32,Christian Klien,AUT,Bsauber F1 Team,1:19.537,38,,,,2008,14,1,2008-14-1.gif
-2,55,Sebastienvettel,GER,Red Bul Racing,1:19.878,60,34,,,2008,14,1,2008-14-1.gif
-3,37,Sebastien Bum,SUI,Scuderia Toro Rosso,1:20.209,88,60,,,2008,14,1,2008-14-1.gif
-4,61,Gary Paffett,GBR,Vodafone C Laren Vercedes,1:20.602,52,21,,,2008,14,1,2008-14-1.gif
-5,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:20.759,94,98,,,2008,14,1,2008-14-1.gif
+2,55,Sebastienvettel,GER,Red Bul Racing,1:19.878,60,34.0,,,2008,14,1,2008-14-1.gif
+3,37,Sebastien Bum,SUI,Scuderia Toro Rosso,1:20.209,88,60.0,,,2008,14,1,2008-14-1.gif
+4,61,Gary Paffett,GBR,Vodafone C Laren Vercedes,1:20.602,52,21.0,,,2008,14,1,2008-14-1.gif
+5,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:20.759,94,98.0,,,2008,14,1,2008-14-1.gif
 6,33,Lucas Dgrass,BRA,Ing Renaut F1,1:20.853,90,,,,2008,14,1,2008-14-1.gif
-7,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.123,71,10,,,2008,14,1,2008-14-1.gif
-8,8,Kazuki Nakajma,JPN,Attwlliams,1:23.171,61,21,,,2008,14,1,2008-14-1.gif
-1,12,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:19.660,104,84,,,2009,2,1,2009-2-1.gif
-2,15,Sebastian Vettel,GER,Red Bul Racing,1:22.177,61,49,,,2009,2,1,2009-2-1.gif
-3,38,Nico Hulkenberg,GER,Attwilliams,1:22.443,82,78,,,2009,2,1,2009-2-1.gif
-4,2,Heikki Kovalainen,FIN,Vodafone Mclaren Ercedes,1:22.634,60,58,,,2009,2,1,2009-2-1.gif
-,58,F1Nelson Piquet,BRA,Ing Renaut F1,1:23.313,35,27,,,2009,2,1,2009-2-1.gif
-1,37,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:17.258,139,34,,,2008,16,3,2008-16-3.gif
-2,57,Takuma Sato,JPN,Scuderia Toro Rosso,1:17.520,119,33,,,2008,16,3,2008-16-3.gif
-3,23,Heikki Kovalainen,FIN,Vodatone Laren Mercedes,1:18.049,96,37,,,2008,16,3,2008-16-3.gif
-4,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:18.782,82,62,,,2008,16,3,2008-16-3.gif
-5,2,Felipe Massa,BRA,Scuderia Ferrari Mtarboro,1:19.050,72,83,,,2008,16,3,2008-16-3.gif
-6,5,Femando Alonso,ESP,Ing Renaut F1,1:19.319,124,67,,,2008,16,3,2008-16-3.gif
-7,7,Nico Rosberg,GER,Attwlliams,1:19.388,130,41,,,2008,16,3,2008-16-3.gif
-8,41,Pedro Dela Rosa,ESP,Odafone Mclaren Mercedes,1:19.499,47,29,,,2008,16,3,2008-16-3.gif
-9,4,Robert Kubica,POL,B Sauber F1 Team,1:19.559,134,30,,,2008,16,3,2008-16-3.gif
-10,32,Christian Klien,AUT,B Sauber F1 Team,1:19.738,101,52,,,2008,16,3,2008-16-3.gif
-1,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:18.493,126,52,,,2009,2,3,2009-2-3.gif
-2,1,Lewis Hamilton,GBR,Vodafone C Laren Vercedes,1:20.737,93,23,,,2009,2,3,2009-2-3.gif
-3,15,Sebastian Vettel,GER,Red Bul Racing,1:20.738,92,13,,,2009,2,3,2009-2-3.gif
-4,17,Kazuki Nakajma,JPN,Attwilliams,1:20.898,92,20,,,2009,2,3,2009-2-3.gif
-5,7,Femando Alonso,ESP,Ing Renaut F1,1:21.307,133,15,,,2009,2,3,2009-2-3.gif
-1,41,Pedro Dela Rosa,ESP,Odafone Mlaren Ercedes,1:18.992,90,32,,,2008,14,3,2008-14-3.gif
-2,3,Nick Heidfeld,GER,B Sauber F1 Team,1:19.250,98,22,,,2008,14,3,2008-14-3.gif
-3,33,Lucas Dgrass,BRA,Ing Renaut F1,1:19.280,102,42,,,2008,14,3,2008-14-3.gif
-4,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:19.470,93,89,,,2008,14,3,2008-14-3.gif
-5,35,Sebastien Bubl,SUI,Red Bul Racing,1:20.005,84,38,,,2008,14,3,2008-14-3.gif
-6,12,Timo Glock,GER,Panasonic Toyota Racing,1:20.482,111,52,,,2008,14,3,2008-14-3.gif
-7,38,Alexander Wurz,AUT,Honda Racing F1 Teat,1:22.658,51,10,,,2008,14,3,2008-14-3.gif
-8,7,Nico Rosberg,GER,Attwilliams,1:22.806,102,27,,,2008,14,3,2008-14-3.gif
-1,22,Lewis Hamilton,GBR,Vodafone Mlaren Ercedes,1:21.234,82,30,,,2008,6,2,2008-6-2.gif
-2,23,Heikki Kovalainen,FIN,Vodafone Mclaren Mercedes,1:21.434,71,18,,,2008,6,2,2008-6-2.gif
-3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:21.722,72,17,,,2008,6,2,2008-6-2.gif
-4,7,Nico Rosberg,GER,Attwilliams,1:22.309,75,19,,,2008,6,2,2008-6-2.gif
-5,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:22.513,102,101,,,2008,6,2,2008-6-2.gif
-6,21,Giancarlo Fisichella,ITA,Force India F1,1:22.516,102,100,,,2008,6,2,2008-6-2.gif
-7,55,Sebastian Vettel,GER,Red Bul Racing,1:22.558,110,103,,,2008,6,2,2008-6-2.gif
-,84,Robert Kubica,POL,B Sauber F1 Team,1:22.625,96,19,,,2008,6,2,2008-6-2.gif
-9,16,Jenson Button,GBR,Honda Racing F1 Team,1:22.659,67,23,,,2008,6,2,2008-6-2.gif
-10,40,Vitantonio Liuzzi,ITA,Force India F1,1:22.942,89,40,,,2008,6,2,2008-6-2.gif
-1,18,Kazuki Nakajma,JPN,Att Wlliams,1:22.977,100,97,,,2008,6,2,2008-6-2.gif
-12,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:23.023,98,96,,,2008,6,2,2008-6-2.gif
-1,35,Femando Alonso,ESP,Ing Renaut F1,1:23.112,79,42,,,2008,6,2,2008-6-2.gif
-14,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:23.159,74,26,,,2008,6,2,2008-6-2.gif
-1,53,Nick Heidfeld,GER,Bisauber F1 Team,1:23.284,77,36,,,2008,6,2,2008-6-2.gif
-16,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:23.323,98,61,,,2008,6,2,2008-6-2.gif
-17,10,Mark Webber,AUS,Red Bul Racing,1:23.458,58,55,,,2008,6,2,2008-6-2.gif
-18,6,Nelson Piquet,BRA,Ing Renaut F1,1:23.467,45,21,,,2008,6,2,2008-6-2.gif
-19,12,Timo Glock,GER,Panasonic Toyota Racing,1:23.561,80,42,,,2008,6,2,2008-6-2.gif
-1,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.801,83,26,,,2008,6,3,2008-6-3.gif
-2,9,David Coulthard,GBR,Red Bul Racing,1:21.258,76,24,,,2008,6,3,2008-6-3.gif
-3,7,Nico Rosberg,GER,Attwlliams,1:21.293,77,21,,,2008,6,3,2008-6-3.gif
-4,23,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:21.309,87,86,,,2008,6,3,2008-6-3.gif
-5,10,Mark Webber,AUS,Red Bul Racing,1:21.368,81,32,,,2008,6,3,2008-6-3.gif
-,66,Nelson Piquet,BRA,Ing Renaut F1,1:21.443,114,31,,,2008,6,3,2008-6-3.gif
-7,5,Femando Alonso,ESP,Ing Renaut F1,1:21.454,128,47,,,2008,6,3,2008-6-3.gif
-8,8,Kazuki Nakajma,JPN,Attwilliams,1:21.796,124,13,,,2008,6,3,2008-6-3.gif
-,91,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:21.933,80,36,,,2008,6,3,2008-6-3.gif
-10,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:22.011,103,18,,,2008,6,3,2008-6-3.gif
-11,12,Timo Glock,GER,Panasonic Toyota Racing,1:22.155,66,40,,,2008,6,3,2008-6-3.gif
-12,21,Giancarlofisichella,ITA,Force India F1,1:22.233,102,30,,,2008,6,3,2008-6-3.gif
-13,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:22.286,49,8,,,2008,6,3,2008-6-3.gif
-14,4,Robert Kubica,POL,Bmsauber F1 Team,1:22.299,93,26,,,2008,6,3,2008-6-3.gif
-15,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:22.457,98,81,,,2008,6,3,2008-6-3.gif
-16,20,Adrian Sutil,GER,Force India F1,1:22.521,107,20,,,2008,6,3,2008-6-3.gif
-17,3,Nick Heidfeld,GER,B Sauber F1 Team,1:22.624,61,47,,,2008,6,3,2008-6-3.gif
-18,16,Jenson Button,GBR,Honda Racing F1 Team,1:23.754,89,79,,,2008,6,3,2008-6-3.gif
-19,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:24.154,109,15,,,2008,6,3,2008-6-3.gif
-1,19,Rubens Barrichello,BRA,Brawn Gp,1:18.926,110,102,,,2009,4,4,2009-4-4.gif
-2,16,Nico Rosberg,GER,Attwilliams,1:19.774,120,32,,,2009,4,4,2009-4-4.gif
-3,10,Timo Glock,GER,Panasonic Toyota Racing,1:20.091,128,84,,,2009,4,4,2009-4-4.gif
-4,15,Sebastian Vettel,GER,Red Bul Racing,1:20.576,83,78,,,2009,4,4,2009-4-4.gif
-5,7,Femando Alonso,ESP,Ing Renaut F1,1:20.664,64,54,,,2009,4,4,2009-4-4.gif
-,63,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:20.677,92,60,,,2009,4,4,2009-4-4.gif
-7,5,Robert Kubica,POL,Bsauber F1 Team,1:20.740,134,29,,,2009,4,4,2009-4-4.gif
-8,1,Lewis Hamilton,GBR,Odafone Mclaren Mercedes,1:20.869,70,53,,,2009,4,4,2009-4-4.gif
-9,12,Sebastien Bumi,SUI,Scuderia Toro Rosso,1:21.013,62,59,,,2009,4,4,2009-4-4.gif
-10,21,Giancarlofisichella,ITA,Force India F1,1:21.045,141,42,,,2009,4,4,2009-4-4.gif
-11,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:21.629,27,7,,,2009,4,4,2009-4-4.gif
-1,22,Lewis Hamilton,GBR,Vodafone Mlaren Ercedes,1:19.102,89,20,72 February 2000,,2008,4,1,2008-4-1.gif
-2,41,Pedro Dela Rosa,ESP,Vodafone Laren Mercedes,1:19.287,88,30,72 February 2000,,2008,4,1,2008-4-1.gif
-3,4,Robert Kubica,POL,Bsauber F1 Team,1:19.539,91,17,72 February 2000,,2008,4,1,2008-4-1.gif
-4,8,Kazuki Nakajma,JPN,Attwlliams,1:19.601,93,79,72 February 2000,,2008,4,1,2008-4-1.gif
-,56,Nelson Piquet,BRA,Ing Renaut F1,1:19.660,120,45,72 February 2000,,2008,4,1,2008-4-1.gif
-6,3,Nick Heidfeld,GER,B Sauber F1 Team,1:19.958,94,13,72 February 2000,,2008,4,1,2008-4-1.gif
-7,10,Mark Webber,AUS,Red Bul Racing,1:20.013,113,11,72 February 2000,,2008,4,1,2008-4-1.gif
-8,7,Nico Rosberg,GER,Attwlliams,1:20.029,125,94,72 February 2000,,2008,4,1,2008-4-1.gif
-9,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:20.105,53,20,72 February 2000,,2008,4,1,2008-4-1.gif
-1,09,David Coulthard,GBR,Red Bul Racing,1:20.176,111,19,72 February 2000,,2008,4,1,2008-4-1.gif
-11,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.418,82,38,72 February 2000,,2008,4,1,2008-4-1.gif
-12,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:21.133,71,30,72 February 2000,,2008,4,1,2008-4-1.gif
-13,33,Lucas Dgrassi,BRA,Ing Renaut F1,1:21.200,92,85,72 February 2000,,2008,4,1,2008-4-1.gif
-14,18,Takuma Sato,JPN,Super Aguri F1 Team,1:21.400,90,20,72 February 2000,,2008,4,1,2008-4-1.gif
-15,40,Vitantonio Liuzzi,ITA,Force India F1,1:21.553,103,32,72 February 2000,,2008,4,1,2008-4-1.gif
-16,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.950,86,3,72 February 2000,,2008,4,1,2008-4-1.gif
-1,23,Heikki Kovalainen,FIN,Odafone Mlaren Ercedes,1:18.385,116,10,,,2008,12,4,2008-12-4.gif
-2,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:18.746,113,63,,,2008,12,4,2008-12-4.gif
-3,9,David Coulthard,GBR,Red Bul Racing,1:19.494,93,20,,,2008,12,4,2008-12-4.gif
-4,53,Romain Grosjean,FRA,Ing Renaut F1,1:19.561,90,9,,,2008,12,4,2008-12-4.gif
-5,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:19.611,92,23,,,2008,12,4,2008-12-4.gif
-6,8,Kazuki Nakaja,JPN,Attwlliams,1:19.724,100,20,,,2008,12,4,2008-12-4.gif
-7,3,Nick Heidfeld,GER,Bi Sauber F1 Team,1:19.915,99,28,,,2008,12,4,2008-12-4.gif
-8,20,Adrian Sutil,GER,Force India F1,1:19.965,72,23,,,2008,12,4,2008-12-4.gif
-9,16,Jenson Button,GBR,Honda Racing F1 Team,1:20.532,98,22,,,2008,12,4,2008-12-4.gif
-10,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:20.878,90,28,,,2008,12,4,2008-12-4.gif
-1,55,Sebastienvettel,GER,Red Bul Racing,1:18.001,37,17,,,2008,14,2,2008-14-2.gif
-2,3,Nick Heidfeld,GER,B Sauber F1 Team,1:18.167,70,53,,,2008,14,2,2008-14-2.gif
-3,33,Lucas Dgrass,BRA,Ing Renaut F1,1:18.999,38,16,,,2008,14,2,2008-14-2.gif
-4,41,Pedro Dela Rosa,ESP,Vodafone C Laren Vercedes,1:19.281,39,33,,,2008,14,2,2008-14-2.gif
-5,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:19.499,79,40,,,2008,14,2,2008-14-2.gif
-6,57,Takuma Sato,JPN,Scuderia Toro Rosso,1:19.574,49,43,,,2008,14,2,2008-14-2.gif
-7,36,Kamui Kobayash,JPN,Panasonic Toyota Racing,1:19.863,47,31,,,2008,14,2,2008-14-2.gif
-,88,Kazuki Nakajma,JPN,Attwilliams,1:21.892,60,17,,,2008,14,2,2008-14-2.gif
-1,12,Sebastien Bubml,SUI,Scuderia Toro Rosso,1:17.591,143,54,,,2009,2,2,2009-2-2.gif
-2,2,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:20.799,110,107,,,2009,2,2,2009-2-2.gif
-3,14,Mark Webber,AUS,Red Bul Racing,1:21.321,83,24,,,2009,2,2,2009-2-2.gif
-4,17,Kazuki Nakajma,JPN,Attwlliams,1:21.451,125,48,,,2009,2,2,2009-2-2.gif
-,58,Nelson Piquet,BRA,Ing Renaut F1,1:21.908,49,48,,,2009,2,2,2009-2-2.gif
-1,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtariboro,1:11.189,88,16,,,2008,2,3,2008-2-3.gif
-2,23,Heikki Kovalainen,FIN,Vodafone Laren Vercedes,1:11.206,89,35,,,2008,2,3,2008-2-3.gif
+7,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.123,71,10.0,,,2008,14,1,2008-14-1.gif
+8,8,Kazuki Nakajma,JPN,Attwlliams,1:23.171,61,21.0,,,2008,14,1,2008-14-1.gif
+1,12,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:19.660,104,84.0,,,2009,2,1,2009-2-1.gif
+2,15,Sebastian Vettel,GER,Red Bul Racing,1:22.177,61,49.0,,,2009,2,1,2009-2-1.gif
+3,38,Nico Hulkenberg,GER,Attwilliams,1:22.443,82,78.0,,,2009,2,1,2009-2-1.gif
+4,2,Heikki Kovalainen,FIN,Vodafone Mclaren Ercedes,1:22.634,60,58.0,,,2009,2,1,2009-2-1.gif
+,58,F1Nelson Piquet,BRA,Ing Renaut F1,1:23.313,35,27.0,,,2009,2,1,2009-2-1.gif
+1,37,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:17.258,139,34.0,,,2008,16,3,2008-16-3.gif
+2,57,Takuma Sato,JPN,Scuderia Toro Rosso,1:17.520,119,33.0,,,2008,16,3,2008-16-3.gif
+3,23,Heikki Kovalainen,FIN,Vodatone Laren Mercedes,1:18.049,96,37.0,,,2008,16,3,2008-16-3.gif
+4,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:18.782,82,62.0,,,2008,16,3,2008-16-3.gif
+5,2,Felipe Massa,BRA,Scuderia Ferrari Mtarboro,1:19.050,72,83.0,,,2008,16,3,2008-16-3.gif
+6,5,Femando Alonso,ESP,Ing Renaut F1,1:19.319,124,67.0,,,2008,16,3,2008-16-3.gif
+7,7,Nico Rosberg,GER,Attwlliams,1:19.388,130,41.0,,,2008,16,3,2008-16-3.gif
+8,41,Pedro Dela Rosa,ESP,Odafone Mclaren Mercedes,1:19.499,47,29.0,,,2008,16,3,2008-16-3.gif
+9,4,Robert Kubica,POL,B Sauber F1 Team,1:19.559,134,30.0,,,2008,16,3,2008-16-3.gif
+10,32,Christian Klien,AUT,B Sauber F1 Team,1:19.738,101,52.0,,,2008,16,3,2008-16-3.gif
+1,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:18.493,126,52.0,,,2009,2,3,2009-2-3.gif
+2,1,Lewis Hamilton,GBR,Vodafone C Laren Vercedes,1:20.737,93,23.0,,,2009,2,3,2009-2-3.gif
+3,15,Sebastian Vettel,GER,Red Bul Racing,1:20.738,92,13.0,,,2009,2,3,2009-2-3.gif
+4,17,Kazuki Nakajma,JPN,Attwilliams,1:20.898,92,20.0,,,2009,2,3,2009-2-3.gif
+5,7,Femando Alonso,ESP,Ing Renaut F1,1:21.307,133,15.0,,,2009,2,3,2009-2-3.gif
+1,41,Pedro Dela Rosa,ESP,Odafone Mlaren Ercedes,1:18.992,90,32.0,,,2008,14,3,2008-14-3.gif
+2,3,Nick Heidfeld,GER,B Sauber F1 Team,1:19.250,98,22.0,,,2008,14,3,2008-14-3.gif
+3,33,Lucas Dgrass,BRA,Ing Renaut F1,1:19.280,102,42.0,,,2008,14,3,2008-14-3.gif
+4,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:19.470,93,89.0,,,2008,14,3,2008-14-3.gif
+5,35,Sebastien Bubl,SUI,Red Bul Racing,1:20.005,84,38.0,,,2008,14,3,2008-14-3.gif
+6,12,Timo Glock,GER,Panasonic Toyota Racing,1:20.482,111,52.0,,,2008,14,3,2008-14-3.gif
+7,38,Alexander Wurz,AUT,Honda Racing F1 Teat,1:22.658,51,10.0,,,2008,14,3,2008-14-3.gif
+8,7,Nico Rosberg,GER,Attwilliams,1:22.806,102,27.0,,,2008,14,3,2008-14-3.gif
+1,22,Lewis Hamilton,GBR,Vodafone Mlaren Ercedes,1:21.234,82,30.0,,,2008,6,2,2008-6-2.gif
+2,23,Heikki Kovalainen,FIN,Vodafone Mclaren Mercedes,1:21.434,71,18.0,,,2008,6,2,2008-6-2.gif
+3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:21.722,72,17.0,,,2008,6,2,2008-6-2.gif
+4,7,Nico Rosberg,GER,Attwilliams,1:22.309,75,19.0,,,2008,6,2,2008-6-2.gif
+5,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:22.513,102,101.0,,,2008,6,2,2008-6-2.gif
+6,21,Giancarlo Fisichella,ITA,Force India F1,1:22.516,102,100.0,,,2008,6,2,2008-6-2.gif
+7,55,Sebastian Vettel,GER,Red Bul Racing,1:22.558,110,103.0,,,2008,6,2,2008-6-2.gif
+,84,Robert Kubica,POL,B Sauber F1 Team,1:22.625,96,19.0,,,2008,6,2,2008-6-2.gif
+9,16,Jenson Button,GBR,Honda Racing F1 Team,1:22.659,67,23.0,,,2008,6,2,2008-6-2.gif
+10,40,Vitantonio Liuzzi,ITA,Force India F1,1:22.942,89,40.0,,,2008,6,2,2008-6-2.gif
+1,18,Kazuki Nakajma,JPN,Att Wlliams,1:22.977,100,97.0,,,2008,6,2,2008-6-2.gif
+12,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:23.023,98,96.0,,,2008,6,2,2008-6-2.gif
+1,35,Femando Alonso,ESP,Ing Renaut F1,1:23.112,79,42.0,,,2008,6,2,2008-6-2.gif
+14,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:23.159,74,26.0,,,2008,6,2,2008-6-2.gif
+1,53,Nick Heidfeld,GER,Bisauber F1 Team,1:23.284,77,36.0,,,2008,6,2,2008-6-2.gif
+16,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:23.323,98,61.0,,,2008,6,2,2008-6-2.gif
+17,10,Mark Webber,AUS,Red Bul Racing,1:23.458,58,55.0,,,2008,6,2,2008-6-2.gif
+18,6,Nelson Piquet,BRA,Ing Renaut F1,1:23.467,45,21.0,,,2008,6,2,2008-6-2.gif
+19,12,Timo Glock,GER,Panasonic Toyota Racing,1:23.561,80,42.0,,,2008,6,2,2008-6-2.gif
+1,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.801,83,26.0,,,2008,6,3,2008-6-3.gif
+2,9,David Coulthard,GBR,Red Bul Racing,1:21.258,76,24.0,,,2008,6,3,2008-6-3.gif
+3,7,Nico Rosberg,GER,Attwlliams,1:21.293,77,21.0,,,2008,6,3,2008-6-3.gif
+4,23,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:21.309,87,86.0,,,2008,6,3,2008-6-3.gif
+5,10,Mark Webber,AUS,Red Bul Racing,1:21.368,81,32.0,,,2008,6,3,2008-6-3.gif
+,66,Nelson Piquet,BRA,Ing Renaut F1,1:21.443,114,31.0,,,2008,6,3,2008-6-3.gif
+7,5,Femando Alonso,ESP,Ing Renaut F1,1:21.454,128,47.0,,,2008,6,3,2008-6-3.gif
+8,8,Kazuki Nakajma,JPN,Attwilliams,1:21.796,124,13.0,,,2008,6,3,2008-6-3.gif
+,91,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:21.933,80,36.0,,,2008,6,3,2008-6-3.gif
+10,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:22.011,103,18.0,,,2008,6,3,2008-6-3.gif
+11,12,Timo Glock,GER,Panasonic Toyota Racing,1:22.155,66,40.0,,,2008,6,3,2008-6-3.gif
+12,21,Giancarlofisichella,ITA,Force India F1,1:22.233,102,30.0,,,2008,6,3,2008-6-3.gif
+13,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:22.286,49,8.0,,,2008,6,3,2008-6-3.gif
+14,4,Robert Kubica,POL,Bmsauber F1 Team,1:22.299,93,26.0,,,2008,6,3,2008-6-3.gif
+15,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:22.457,98,81.0,,,2008,6,3,2008-6-3.gif
+16,20,Adrian Sutil,GER,Force India F1,1:22.521,107,20.0,,,2008,6,3,2008-6-3.gif
+17,3,Nick Heidfeld,GER,B Sauber F1 Team,1:22.624,61,47.0,,,2008,6,3,2008-6-3.gif
+18,16,Jenson Button,GBR,Honda Racing F1 Team,1:23.754,89,79.0,,,2008,6,3,2008-6-3.gif
+19,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:24.154,109,15.0,,,2008,6,3,2008-6-3.gif
+1,19,Rubens Barrichello,BRA,Brawn Gp,1:18.926,110,102.0,,,2009,4,4,2009-4-4.gif
+2,16,Nico Rosberg,GER,Attwilliams,1:19.774,120,32.0,,,2009,4,4,2009-4-4.gif
+3,10,Timo Glock,GER,Panasonic Toyota Racing,1:20.091,128,84.0,,,2009,4,4,2009-4-4.gif
+4,15,Sebastian Vettel,GER,Red Bul Racing,1:20.576,83,78.0,,,2009,4,4,2009-4-4.gif
+5,7,Femando Alonso,ESP,Ing Renaut F1,1:20.664,64,54.0,,,2009,4,4,2009-4-4.gif
+,63,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:20.677,92,60.0,,,2009,4,4,2009-4-4.gif
+7,5,Robert Kubica,POL,Bsauber F1 Team,1:20.740,134,29.0,,,2009,4,4,2009-4-4.gif
+8,1,Lewis Hamilton,GBR,Odafone Mclaren Mercedes,1:20.869,70,53.0,,,2009,4,4,2009-4-4.gif
+9,12,Sebastien Bumi,SUI,Scuderia Toro Rosso,1:21.013,62,59.0,,,2009,4,4,2009-4-4.gif
+10,21,Giancarlofisichella,ITA,Force India F1,1:21.045,141,42.0,,,2009,4,4,2009-4-4.gif
+11,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:21.629,27,7.0,,,2009,4,4,2009-4-4.gif
+1,22,Lewis Hamilton,GBR,Vodafone Mlaren Ercedes,1:19.102,89,20.0,72 February 2000,,2008,4,1,2008-4-1.gif
+2,41,Pedro Dela Rosa,ESP,Vodafone Laren Mercedes,1:19.287,88,30.0,72 February 2000,,2008,4,1,2008-4-1.gif
+3,4,Robert Kubica,POL,Bsauber F1 Team,1:19.539,91,17.0,72 February 2000,,2008,4,1,2008-4-1.gif
+4,8,Kazuki Nakajma,JPN,Attwlliams,1:19.601,93,79.0,72 February 2000,,2008,4,1,2008-4-1.gif
+,56,Nelson Piquet,BRA,Ing Renaut F1,1:19.660,120,45.0,72 February 2000,,2008,4,1,2008-4-1.gif
+6,3,Nick Heidfeld,GER,B Sauber F1 Team,1:19.958,94,13.0,72 February 2000,,2008,4,1,2008-4-1.gif
+7,10,Mark Webber,AUS,Red Bul Racing,1:20.013,113,11.0,72 February 2000,,2008,4,1,2008-4-1.gif
+8,7,Nico Rosberg,GER,Attwlliams,1:20.029,125,94.0,72 February 2000,,2008,4,1,2008-4-1.gif
+9,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:20.105,53,20.0,72 February 2000,,2008,4,1,2008-4-1.gif
+1,9,David Coulthard,GBR,Red Bul Racing,1:20.176,111,19.0,72 February 2000,,2008,4,1,2008-4-1.gif
+11,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.418,82,38.0,72 February 2000,,2008,4,1,2008-4-1.gif
+12,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:21.133,71,30.0,72 February 2000,,2008,4,1,2008-4-1.gif
+13,33,Lucas Dgrassi,BRA,Ing Renaut F1,1:21.200,92,85.0,72 February 2000,,2008,4,1,2008-4-1.gif
+14,18,Takuma Sato,JPN,Super Aguri F1 Team,1:21.400,90,20.0,72 February 2000,,2008,4,1,2008-4-1.gif
+15,40,Vitantonio Liuzzi,ITA,Force India F1,1:21.553,103,32.0,72 February 2000,,2008,4,1,2008-4-1.gif
+16,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.950,86,3.0,72 February 2000,,2008,4,1,2008-4-1.gif
+1,23,Heikki Kovalainen,FIN,Odafone Mlaren Ercedes,1:18.385,116,10.0,,,2008,12,4,2008-12-4.gif
+2,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:18.746,113,63.0,,,2008,12,4,2008-12-4.gif
+3,9,David Coulthard,GBR,Red Bul Racing,1:19.494,93,20.0,,,2008,12,4,2008-12-4.gif
+4,53,Romain Grosjean,FRA,Ing Renaut F1,1:19.561,90,9.0,,,2008,12,4,2008-12-4.gif
+5,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:19.611,92,23.0,,,2008,12,4,2008-12-4.gif
+6,8,Kazuki Nakaja,JPN,Attwlliams,1:19.724,100,20.0,,,2008,12,4,2008-12-4.gif
+7,3,Nick Heidfeld,GER,Bi Sauber F1 Team,1:19.915,99,28.0,,,2008,12,4,2008-12-4.gif
+8,20,Adrian Sutil,GER,Force India F1,1:19.965,72,23.0,,,2008,12,4,2008-12-4.gif
+9,16,Jenson Button,GBR,Honda Racing F1 Team,1:20.532,98,22.0,,,2008,12,4,2008-12-4.gif
+10,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:20.878,90,28.0,,,2008,12,4,2008-12-4.gif
+1,55,Sebastienvettel,GER,Red Bul Racing,1:18.001,37,17.0,,,2008,14,2,2008-14-2.gif
+2,3,Nick Heidfeld,GER,B Sauber F1 Team,1:18.167,70,53.0,,,2008,14,2,2008-14-2.gif
+3,33,Lucas Dgrass,BRA,Ing Renaut F1,1:18.999,38,16.0,,,2008,14,2,2008-14-2.gif
+4,41,Pedro Dela Rosa,ESP,Vodafone C Laren Vercedes,1:19.281,39,33.0,,,2008,14,2,2008-14-2.gif
+5,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:19.499,79,40.0,,,2008,14,2,2008-14-2.gif
+6,57,Takuma Sato,JPN,Scuderia Toro Rosso,1:19.574,49,43.0,,,2008,14,2,2008-14-2.gif
+7,36,Kamui Kobayash,JPN,Panasonic Toyota Racing,1:19.863,47,31.0,,,2008,14,2,2008-14-2.gif
+,88,Kazuki Nakajma,JPN,Attwilliams,1:21.892,60,17.0,,,2008,14,2,2008-14-2.gif
+1,12,Sebastien Bubml,SUI,Scuderia Toro Rosso,1:17.591,143,54.0,,,2009,2,2,2009-2-2.gif
+2,2,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:20.799,110,107.0,,,2009,2,2,2009-2-2.gif
+3,14,Mark Webber,AUS,Red Bul Racing,1:21.321,83,24.0,,,2009,2,2,2009-2-2.gif
+4,17,Kazuki Nakajma,JPN,Attwlliams,1:21.451,125,48.0,,,2009,2,2,2009-2-2.gif
+,58,Nelson Piquet,BRA,Ing Renaut F1,1:21.908,49,48.0,,,2009,2,2,2009-2-2.gif
+1,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtariboro,1:11.189,88,16.0,,,2008,2,3,2008-2-3.gif
+2,23,Heikki Kovalainen,FIN,Vodafone Laren Vercedes,1:11.206,89,35.0,,,2008,2,3,2008-2-3.gif
 3,2,Felipe Massa,BRA,Scuderia Ferrari Mtarboro,1:11.831,11,,,,2008,2,3,2008-2-3.gif
-4,8,Kazuki Nakajma,JPN,Attwilliams,1:11.971,116,43,,,2008,2,3,2008-2-3.gif
-5,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:11.994,84,59,,,2008,2,3,2008-2-3.gif
-,64,Robert Kubica,POL,Bsauber F1 Team,1:12.095,86,69,,,2008,2,3,2008-2-3.gif
+4,8,Kazuki Nakajma,JPN,Attwilliams,1:11.971,116,43.0,,,2008,2,3,2008-2-3.gif
+5,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:11.994,84,59.0,,,2008,2,3,2008-2-3.gif
+,64,Robert Kubica,POL,Bsauber F1 Team,1:12.095,86,69.0,,,2008,2,3,2008-2-3.gif
 7,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:12.109,94,,,,2008,2,3,2008-2-3.gif
-8,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:12.526,113,41,,,2008,2,3,2008-2-3.gif
-9,3,Nick Heidfeld,GER,B Sauber F1 Team,1:12.600,39,10,,,2008,2,3,2008-2-3.gif
-10,12,Timo Glock,GER,Panasonic Toyota Racing,1:12.705,68,9,,,2008,2,3,2008-2-3.gif
-11,21,Giancarlofisichella,ITA,Force India F1,1:12.949,93,54,,,2008,2,3,2008-2-3.gif
-1,26,Nelson Piquet,BRA,Ing Renaut F1,1:12.973,89,99,,,2008,2,3,2008-2-3.gif
-13,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:13.060,95,90,,,2008,2,3,2008-2-3.gif
-14,10,Mark Webber,AUS,Red Bul Racing,1:13.133,15,12,,,2008,2,3,2008-2-3.gif
-15,34,Nico Hulkenberg,GER,Att Williams,1:13.306,14,49,,,2008,2,3,2008-2-3.gif
-16,16,Jenson Button,GBR,Honda Racing F1 Team,1:13.689,80,79,,,2008,2,3,2008-2-3.gif
-1,23,Heikki Kovalainen,FIN,Vodafone Laren Mercedes,1:20.015,74,23,,,2008,10,2,2008-10-2.gif
-2,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.391,95,93,,,2008,10,2,2008-10-2.gif
-3,7,Nico Rosberg,GER,Attwilliams,1:20.624,74,38,,,2008,10,2,2008-10-2.gif
-4,6,Nelson Piquet,BRA,Ing Renaut F1,1:20.787,87,44,,,2008,10,2,2008-10-2.gif
-5,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:20.795,84,83,,,2008,10,2,2008-10-2.gif
-6,4,Robert Kubica,POL,Bmsauber F1 Team,1:20.982,67,62,,,2008,10,2,2008-10-2.gif
-7,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:21.069,69,23,,,2008,10,2,2008-10-2.gif
-8,10,Mark Webber,AUS,Red Bul Racing,1:21.170,39,38,,,2008,10,2,2008-10-2.gif
-9,16,Jenson Button,GBR,Honda Racing F1 Team,1:21.445,106,92,,,2008,10,2,2008-10-2.gif
-10,21,Giancarlofisichella,ITA,Force India F1,1:21.583,52,32,,,2008,10,2,2008-10-2.gif
-1,6,Nick Heidfeld,GER,Bsauber F1 Team,1:20.338,96,79,,,2009,4,1,2009-4-1.gif
-2,4,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:20.908,81,14,,,2009,4,1,2009-4-1.gif
-3,9,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.937,121,91,,,2009,4,1,2009-4-1.gif
-4,18,Jenson Button,GBR,Brawn Gp,1:21.140,82,29,,,2009,4,1,2009-4-1.gif
-5,8,Nelson Piquet,BRA,Ing Renaut F1,1:21.662,126,121,,,2009,4,1,2009-4-1.gif
-6,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:22.158,86,80,,,2009,4,1,2009-4-1.gif
-7,14,Mark Webber,AUS,Red Bul Racing,1:22.246,117,112,,,2009,4,1,2009-4-1.gif
-8,20,Adrian Sutil,GER,Force India F1,1:22.452,129,42,,,2009,4,1,2009-4-1.gif
-9,17,Kazuki Nakajma,JPN,Att Wlliams,1:22.813,111,29,,,2009,4,1,2009-4-1.gif
-1,02,Heikki Kovalainen,FIN,Odafone Mclaren Mercedes,1:22.948,90,85,,,2009,4,1,2009-4-1.gif
-1,23,Heikki Kovalainen,FIN,Odafone Mlaren Ercedes,1:11.000,92,41,,,2008,2,2,2008-2-2.gif
-2,2,Felipe Massa,BRA,Scuderia Ferrari Mtarboro,1:11.662,81,71,,,2008,2,2,2008-2-2.gif
-3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Mtarboro,1:11.850,108,43,,,2008,2,2,2008-2-2.gif
-4,22,Lewis Hamilton,GBR,Vodafone C Laren Vercedes,1:12.076,115,87,,,2008,2,2,2008-2-2.gif
-5,8,Kazuki Nakajma,JPN,Attwlliams,1:12.255,93,35,,,2008,2,2,2008-2-2.gif
-,65,Femando Alonso,ESP,Ing Renaut F1,1:12.360,111,50,,,2008,2,2,2008-2-2.gif
-7,7,Nico Rosberg,GER,Attwlliams,1:12.493,117,115,,,2008,2,2,2008-2-2.gif
-8,10,Mark Webber,AUS,Red Bul Racing,1:12.594,87,67,,,2008,2,2,2008-2-2.gif
-9,3,Nick Heidfeld,GER,B Sauber F1 Team,1:12.976,51,12,,,2008,2,2,2008-2-2.gif
-10,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:13.015,63,22,,,2008,2,2,2008-2-2.gif
-11,12,Timo Glock,GER,Panasonic Toyota Racing,1:13.129,95,78,,,2008,2,2,2008-2-2.gif
-12,4,Robert Kubica,POL,Bisauber F1 Team,1:13.230,121,22,,,2008,2,2,2008-2-2.gif
-13,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:13.307,118,83,,,2008,2,2,2008-2-2.gif
-14,20,Adrian Sutil,GER,Force India F1,1:13.409,98,94,,,2008,2,2,2008-2-2.gif
-15,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:13.547,96,50,,,2008,2,2,2008-2-2.gif
-16,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:14.588,38,26,,,2008,2,2,2008-2-2.gif
-17,78,Takashi Kogure,JPN,Honda Racing F1 Team,1:16.761,50,46,,,2008,2,2,2008-2-2.gif
-1,18,Jenson Button,GBR,Brawn Gp,1:19.127,130,93,,,2009,4,3,2009-4-3.gif
-2,3,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:20.168,109,18,,,2009,4,3,2009-4-3.gif
-3,5,Robert Kubica,POL,Bsauber F1 Team,1:20.217,114,93,,,2009,4,3,2009-4-3.gif
-4,10,Timo Glock,GER,Panasonic Toyota Racing,1:20.410,132,88,,,2009,4,3,2009-4-3.gif
-5,7,Femando Alonso,ESP,Ing Renaut F1,1:20.863,107,58,,,2009,4,3,2009-4-3.gif
-6,15,Sebastian Vettel,GER,Red Bul Racing,1:21.165,102,41,,,2009,4,3,2009-4-3.gif
-7,16,Nico Rosberg,GER,Attwilliams,1:21.324,89,41,,,2009,4,3,2009-4-3.gif
-8,21,Giancarlofisichella,ITA,Force India F1,1:21.545,97,26,,,2009,4,3,2009-4-3.gif
-9,12,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:21.569,145,50,,,2009,4,3,2009-4-3.gif
-1,01,Lewis Hamilton,GBR,Wodafone M Laren Mercedes,1:21.657,98,26,,,2009,4,3,2009-4-3.gif
-1,4,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:20.314,55,35,,,2009,4,2,2009-4-2.gif
-2,17,Kazuki Nakajma,JPN,Attwilliams,1:20.907,66,43,,,2009,4,2,2009-4-2.gif
-3,19,Rubens Barrichello,BRA,Brawn Gp,1:20.966,111,48,,,2009,4,2,2009-4-2.gif
-,49,Jamo Trulli,ITA,Panasonic Toyota Racing,1:21.182,121,75,,,2009,4,2,2009-4-2.gif
-5,14,Mark Webber,AUS,Red Bul Racing,1:21.347,99,62,,,2009,4,2,2009-4-2.gif
-,66,Nick Heidfeld,GER,B Sauber F1 Team,1:21.615,127,118,,,2009,4,2,2009-4-2.gif
-7,20,Adrian Sutil,GER,Force India F1,1:21.834,82,9,,,2009,4,2,2009-4-2.gif
-8,7,Femando Alotso,ESP,Ing Renaut F1,1:21.937,111,53,,,2009,4,2,2009-4-2.gif
-9,2,Heikki Kovalainen,FIN,Odafone Mclaren Mercedes,1:21.991,88,74,,,2009,4,2,2009-4-2.gif
-10,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:23.039,14,12,,,2009,4,2,2009-4-2.gif
-1,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:17.472,117,63,,,2009,2,4,2009-2-4.gif
-2,1,Lewis Hamilton,GBR,Vodafone C Laren Vercedes,1:19.632,94,92,,,2009,2,4,2009-2-4.gif
-3,7,Femando Alonso,ESP,Ing Renaut F1,1:19.846,109,68,,,2009,2,4,2009-2-4.gif
-4,16,Nico Rosberg,GER,Attwilliams,1:21.217,71,52,,,2009,2,4,2009-2-4.gif
-5,14,Markwebber,AUS,Red Bul Racing,1:21.313,62,29,,,2009,2,4,2009-2-4.gif
-1,55,Sebastian Vettel,GER,Red Bul Racing,1:19.295,75,12,,,2008,15,3,2008-15-3.gif
-2,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:19.839,122,21,,,2008,15,3,2008-15-3.gif
-3,37,Sebastien Bub,SUI,Scuderia Toro Rosso,1:20.154,115,21,,,2008,15,3,2008-15-3.gif
-4,81,Garypaffett1,GBR,Wodafone Laren Mercedes,1:21.140,81,28,,,2008,15,3,2008-15-3.gif
-5,16,Jenson Button,GBR,Honda Racing F1 Team,1:21.387,94,77,,,2008,15,3,2008-15-3.gif
-6,32,Christian Klien,AUT,B Sauber F1 Team,1:21.534,88,39,,,2008,15,3,2008-15-3.gif
-7,3,Nick Heidfeld,GER,B Sauber F1 Team,1:21.592,106,24,,,2008,15,3,2008-15-3.gif
-8,80,Bruno Senna,BRA,Honda Racing F1 Team,1:21.676,107,97,,,2008,15,3,2008-15-3.gif
-9,6,Nelson Piquet,BRA,Ing Renaut F1,1:22.148,94,22,,,2008,15,3,2008-15-3.gif
-10,34,Nico Hulkenberg,GER,Attwlliams,1:22.410,52,24,,,2008,15,3,2008-15-3.gif
-11,31,Luca Badoer,ITA,Scuderia Ferrari Mvtarboro,1:22.866,120,24,,,2008,15,3,2008-15-3.gif
-12,21,Giancarlofisichella,ITA,Force India F1,1:23.086,93,86,,,2008,15,3,2008-15-3.gif
-13,60,Pedro Dela Rosa,ESP,Force India F1,1:23.103,88,22,,,2008,15,3,2008-15-3.gif
-1,10,Timo Glock,GER,Panasonic Toyota Racing,1:30.979,89,83,,,2009,3,2,2009-3-2.gif
-2,5,Robert Kubica,POL,Bsauber F1 Team,1:31.327,70,27,,,2009,3,2,2009-3-2.gif
-3,16,Nico Rosberg,GER,Attwlliams,1:31.451,114,113,,,2009,3,2,2009-3-2.gif
-4,21,Giancarlo Fisichella,ITA,Force India F1,1:31.547,54,52,,,2009,3,2,2009-3-2.gif
+8,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:12.526,113,41.0,,,2008,2,3,2008-2-3.gif
+9,3,Nick Heidfeld,GER,B Sauber F1 Team,1:12.600,39,10.0,,,2008,2,3,2008-2-3.gif
+10,12,Timo Glock,GER,Panasonic Toyota Racing,1:12.705,68,9.0,,,2008,2,3,2008-2-3.gif
+11,21,Giancarlofisichella,ITA,Force India F1,1:12.949,93,54.0,,,2008,2,3,2008-2-3.gif
+1,26,Nelson Piquet,BRA,Ing Renaut F1,1:12.973,89,99.0,,,2008,2,3,2008-2-3.gif
+13,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:13.060,95,90.0,,,2008,2,3,2008-2-3.gif
+14,10,Mark Webber,AUS,Red Bul Racing,1:13.133,15,12.0,,,2008,2,3,2008-2-3.gif
+15,34,Nico Hulkenberg,GER,Att Williams,1:13.306,14,49.0,,,2008,2,3,2008-2-3.gif
+16,16,Jenson Button,GBR,Honda Racing F1 Team,1:13.689,80,79.0,,,2008,2,3,2008-2-3.gif
+1,23,Heikki Kovalainen,FIN,Vodafone Laren Mercedes,1:20.015,74,23.0,,,2008,10,2,2008-10-2.gif
+2,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.391,95,93.0,,,2008,10,2,2008-10-2.gif
+3,7,Nico Rosberg,GER,Attwilliams,1:20.624,74,38.0,,,2008,10,2,2008-10-2.gif
+4,6,Nelson Piquet,BRA,Ing Renaut F1,1:20.787,87,44.0,,,2008,10,2,2008-10-2.gif
+5,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:20.795,84,83.0,,,2008,10,2,2008-10-2.gif
+6,4,Robert Kubica,POL,Bmsauber F1 Team,1:20.982,67,62.0,,,2008,10,2,2008-10-2.gif
+7,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:21.069,69,23.0,,,2008,10,2,2008-10-2.gif
+8,10,Mark Webber,AUS,Red Bul Racing,1:21.170,39,38.0,,,2008,10,2,2008-10-2.gif
+9,16,Jenson Button,GBR,Honda Racing F1 Team,1:21.445,106,92.0,,,2008,10,2,2008-10-2.gif
+10,21,Giancarlofisichella,ITA,Force India F1,1:21.583,52,32.0,,,2008,10,2,2008-10-2.gif
+1,6,Nick Heidfeld,GER,Bsauber F1 Team,1:20.338,96,79.0,,,2009,4,1,2009-4-1.gif
+2,4,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:20.908,81,14.0,,,2009,4,1,2009-4-1.gif
+3,9,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.937,121,91.0,,,2009,4,1,2009-4-1.gif
+4,18,Jenson Button,GBR,Brawn Gp,1:21.140,82,29.0,,,2009,4,1,2009-4-1.gif
+5,8,Nelson Piquet,BRA,Ing Renaut F1,1:21.662,126,121.0,,,2009,4,1,2009-4-1.gif
+6,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:22.158,86,80.0,,,2009,4,1,2009-4-1.gif
+7,14,Mark Webber,AUS,Red Bul Racing,1:22.246,117,112.0,,,2009,4,1,2009-4-1.gif
+8,20,Adrian Sutil,GER,Force India F1,1:22.452,129,42.0,,,2009,4,1,2009-4-1.gif
+9,17,Kazuki Nakajma,JPN,Att Wlliams,1:22.813,111,29.0,,,2009,4,1,2009-4-1.gif
+1,2,Heikki Kovalainen,FIN,Odafone Mclaren Mercedes,1:22.948,90,85.0,,,2009,4,1,2009-4-1.gif
+1,23,Heikki Kovalainen,FIN,Odafone Mlaren Ercedes,1:11.000,92,41.0,,,2008,2,2,2008-2-2.gif
+2,2,Felipe Massa,BRA,Scuderia Ferrari Mtarboro,1:11.662,81,71.0,,,2008,2,2,2008-2-2.gif
+3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Mtarboro,1:11.850,108,43.0,,,2008,2,2,2008-2-2.gif
+4,22,Lewis Hamilton,GBR,Vodafone C Laren Vercedes,1:12.076,115,87.0,,,2008,2,2,2008-2-2.gif
+5,8,Kazuki Nakajma,JPN,Attwlliams,1:12.255,93,35.0,,,2008,2,2,2008-2-2.gif
+,65,Femando Alonso,ESP,Ing Renaut F1,1:12.360,111,50.0,,,2008,2,2,2008-2-2.gif
+7,7,Nico Rosberg,GER,Attwlliams,1:12.493,117,115.0,,,2008,2,2,2008-2-2.gif
+8,10,Mark Webber,AUS,Red Bul Racing,1:12.594,87,67.0,,,2008,2,2,2008-2-2.gif
+9,3,Nick Heidfeld,GER,B Sauber F1 Team,1:12.976,51,12.0,,,2008,2,2,2008-2-2.gif
+10,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:13.015,63,22.0,,,2008,2,2,2008-2-2.gif
+11,12,Timo Glock,GER,Panasonic Toyota Racing,1:13.129,95,78.0,,,2008,2,2,2008-2-2.gif
+12,4,Robert Kubica,POL,Bisauber F1 Team,1:13.230,121,22.0,,,2008,2,2,2008-2-2.gif
+13,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:13.307,118,83.0,,,2008,2,2,2008-2-2.gif
+14,20,Adrian Sutil,GER,Force India F1,1:13.409,98,94.0,,,2008,2,2,2008-2-2.gif
+15,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:13.547,96,50.0,,,2008,2,2,2008-2-2.gif
+16,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:14.588,38,26.0,,,2008,2,2,2008-2-2.gif
+17,78,Takashi Kogure,JPN,Honda Racing F1 Team,1:16.761,50,46.0,,,2008,2,2,2008-2-2.gif
+1,18,Jenson Button,GBR,Brawn Gp,1:19.127,130,93.0,,,2009,4,3,2009-4-3.gif
+2,3,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:20.168,109,18.0,,,2009,4,3,2009-4-3.gif
+3,5,Robert Kubica,POL,Bsauber F1 Team,1:20.217,114,93.0,,,2009,4,3,2009-4-3.gif
+4,10,Timo Glock,GER,Panasonic Toyota Racing,1:20.410,132,88.0,,,2009,4,3,2009-4-3.gif
+5,7,Femando Alonso,ESP,Ing Renaut F1,1:20.863,107,58.0,,,2009,4,3,2009-4-3.gif
+6,15,Sebastian Vettel,GER,Red Bul Racing,1:21.165,102,41.0,,,2009,4,3,2009-4-3.gif
+7,16,Nico Rosberg,GER,Attwilliams,1:21.324,89,41.0,,,2009,4,3,2009-4-3.gif
+8,21,Giancarlofisichella,ITA,Force India F1,1:21.545,97,26.0,,,2009,4,3,2009-4-3.gif
+9,12,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:21.569,145,50.0,,,2009,4,3,2009-4-3.gif
+1,1,Lewis Hamilton,GBR,Wodafone M Laren Mercedes,1:21.657,98,26.0,,,2009,4,3,2009-4-3.gif
+1,4,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:20.314,55,35.0,,,2009,4,2,2009-4-2.gif
+2,17,Kazuki Nakajma,JPN,Attwilliams,1:20.907,66,43.0,,,2009,4,2,2009-4-2.gif
+3,19,Rubens Barrichello,BRA,Brawn Gp,1:20.966,111,48.0,,,2009,4,2,2009-4-2.gif
+,49,Jamo Trulli,ITA,Panasonic Toyota Racing,1:21.182,121,75.0,,,2009,4,2,2009-4-2.gif
+5,14,Mark Webber,AUS,Red Bul Racing,1:21.347,99,62.0,,,2009,4,2,2009-4-2.gif
+,66,Nick Heidfeld,GER,B Sauber F1 Team,1:21.615,127,118.0,,,2009,4,2,2009-4-2.gif
+7,20,Adrian Sutil,GER,Force India F1,1:21.834,82,9.0,,,2009,4,2,2009-4-2.gif
+8,7,Femando Alotso,ESP,Ing Renaut F1,1:21.937,111,53.0,,,2009,4,2,2009-4-2.gif
+9,2,Heikki Kovalainen,FIN,Odafone Mclaren Mercedes,1:21.991,88,74.0,,,2009,4,2,2009-4-2.gif
+10,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:23.039,14,12.0,,,2009,4,2,2009-4-2.gif
+1,11,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:17.472,117,63.0,,,2009,2,4,2009-2-4.gif
+2,1,Lewis Hamilton,GBR,Vodafone C Laren Vercedes,1:19.632,94,92.0,,,2009,2,4,2009-2-4.gif
+3,7,Femando Alonso,ESP,Ing Renaut F1,1:19.846,109,68.0,,,2009,2,4,2009-2-4.gif
+4,16,Nico Rosberg,GER,Attwilliams,1:21.217,71,52.0,,,2009,2,4,2009-2-4.gif
+5,14,Markwebber,AUS,Red Bul Racing,1:21.313,62,29.0,,,2009,2,4,2009-2-4.gif
+1,55,Sebastian Vettel,GER,Red Bul Racing,1:19.295,75,12.0,,,2008,15,3,2008-15-3.gif
+2,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:19.839,122,21.0,,,2008,15,3,2008-15-3.gif
+3,37,Sebastien Bub,SUI,Scuderia Toro Rosso,1:20.154,115,21.0,,,2008,15,3,2008-15-3.gif
+4,81,Garypaffett1,GBR,Wodafone Laren Mercedes,1:21.140,81,28.0,,,2008,15,3,2008-15-3.gif
+5,16,Jenson Button,GBR,Honda Racing F1 Team,1:21.387,94,77.0,,,2008,15,3,2008-15-3.gif
+6,32,Christian Klien,AUT,B Sauber F1 Team,1:21.534,88,39.0,,,2008,15,3,2008-15-3.gif
+7,3,Nick Heidfeld,GER,B Sauber F1 Team,1:21.592,106,24.0,,,2008,15,3,2008-15-3.gif
+8,80,Bruno Senna,BRA,Honda Racing F1 Team,1:21.676,107,97.0,,,2008,15,3,2008-15-3.gif
+9,6,Nelson Piquet,BRA,Ing Renaut F1,1:22.148,94,22.0,,,2008,15,3,2008-15-3.gif
+10,34,Nico Hulkenberg,GER,Attwlliams,1:22.410,52,24.0,,,2008,15,3,2008-15-3.gif
+11,31,Luca Badoer,ITA,Scuderia Ferrari Mvtarboro,1:22.866,120,24.0,,,2008,15,3,2008-15-3.gif
+12,21,Giancarlofisichella,ITA,Force India F1,1:23.086,93,86.0,,,2008,15,3,2008-15-3.gif
+13,60,Pedro Dela Rosa,ESP,Force India F1,1:23.103,88,22.0,,,2008,15,3,2008-15-3.gif
+1,10,Timo Glock,GER,Panasonic Toyota Racing,1:30.979,89,83.0,,,2009,3,2,2009-3-2.gif
+2,5,Robert Kubica,POL,Bsauber F1 Team,1:31.327,70,27.0,,,2009,3,2,2009-3-2.gif
+3,16,Nico Rosberg,GER,Attwlliams,1:31.451,114,113.0,,,2009,3,2,2009-3-2.gif
+4,21,Giancarlo Fisichella,ITA,Force India F1,1:31.547,54,52.0,,,2009,3,2,2009-3-2.gif
 5,15,Sebastian Vettel,GER,Red Bui Racing,1:32.220,102,,,,2009,3,2,2009-3-2.gif
-6,2,Heikki Kovalainen,FIN,Wodafone Lc Laren Mvercedes,1:33.371,91,38,,,2009,3,2,2009-3-2.gif
-7,8,Nelson Piquet,BRA,Ing Renaut F1,1:33.476,99,12,,,2009,3,2,2009-3-2.gif
-1,7,Nico Rosberg,GER,Attwilliams,1:30.675,73,70,,Extra test),2008,5,1,2008-5-1.gif
-2,8,Kazuki Nakajma,JPN,Attwilliams,1:32.370,96,40,,Extra test),2008,5,1,2008-5-1.gif
-3,10,Mark Webber,AUS,Red Bui Racing,1:32.599,27,23,,Extra test),2008,5,1,2008-5-1.gif
-4,5,Femando Alonso,ESP,Ing Renaut F1,1:32.820,16,15,,Extra test),2008,5,1,2008-5-1.gif
-5,9,David Coulthard,GBR,Red Bul Racing,1:32.924,23,14,,Extra test),2008,5,1,2008-5-1.gif
-6,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:33.283,57,50,,Extra test),2008,5,1,2008-5-1.gif
-7,6,Nelson Piquet,BRA,Ing Renaut F1,1:40.073,8,6,,Extra test),2008,5,1,2008-5-1.gif
-1,5,Femando Alonso,ESP,Ing Renaut F1,1:18.483,100,62,70 March 2000,,2008,7,3,2008-7-3.gif
-2,51,Michael Schumacher,GER,Scuderia Ferrari Lvtarboro,1:19.323,83,15,70 March 2000,,2008,7,3,2008-7-3.gif
-3,20,Adrian Sutil,GER,Force India F1,1:19.424,102,37,70 March 2000,,2008,7,3,2008-7-3.gif
-,44,Robert Kubica,POL,B Sauber F1 Team,1:19.785,112,46,70 March 2000,,2008,7,3,2008-7-3.gif
-5,7,Nico Rosberg,GER,Attwlliams,1:19.841,65,59,70 March 2000,,2008,7,3,2008-7-3.gif
-6,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:19.920,141,82,70 March 2000,,2008,7,3,2008-7-3.gif
-7,22,Lewis Hamilton,GBR,Odafone Mclaren Mercedes,1:20.591,102,30,70 March 2000,,2008,7,3,2008-7-3.gif
-8,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.715,71,67,70 March 2000,,2008,7,3,2008-7-3.gif
-9,10,Mark Webber,AUS,Red Bul Racing,1:20.849,87,29,70 March 2000,,2008,7,3,2008-7-3.gif
-10,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.867,90,32,70 March 2000,,2008,7,3,2008-7-3.gif
-1,2,Felipe Massa,BRA,Scuderia Ferrari Vtarboro,1:18.339,77,71,,,2008,7,1,2008-7-1.gif
-28,8,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.059,75,38,,,2008,7,1,2008-7-1.gif
-3,41,Pedro Dela Rosa,ESP,Vodafone Claren Vercedes,1:21.566,113,52,,,2008,7,1,2008-7-1.gif
-,43,Nick Heidfeld,GER,B Sauber F1 Team,1:21.679,105,98,,,2008,7,1,2008-7-1.gif
-,56,Nelson Piquet,BRA,Ing Renaut F1,1:21.913,91,90,,,2008,7,1,2008-7-1.gif
-6,9,David Coulthard,GBR,Red Bul Racing,1:22.193,59,43,,,2008,7,1,2008-7-1.gif
-7,8,Kazuki Nakajma,JPN,Att Wlliams,1:22.431,72,55,,,2008,7,1,2008-7-1.gif
-8,12,Timo Glock,GER,Panasonic Toyota Racing,1:22.590,93,47,,,2008,7,1,2008-7-1.gif
-9,40,Vitantonio Liuzzi,ITA,Force India F1,1:22.846,91,40,,,2008,7,1,2008-7-1.gif
-1,8,Kazuki Nakajma,JPN,Attwilliams,1:22.153,32,31,,Extra test),2008,5,3,2008-5-3.gif
-2,23,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:22.185,64,52,,Extra test),2008,5,3,2008-5-3.gif
-3,41,Pedro Dela Rosa,ESP,Vodatone Laren Mercedes,1:22.208,92,56,,Extra test),2008,5,3,2008-5-3.gif
-4,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:22.213,96,82,,Extra test),2008,5,3,2008-5-3.gif
-5,7,Nico Rosberg,GER,Att Williams,1:22.248,109,96,,Extra test),2008,5,3,2008-5-3.gif
-6,10,Markwebber,AUS,Red Bul Racing,1:22.477,82,81,,Extra test),2008,5,3,2008-5-3.gif
-7,9,David Coulthari,GBR,Red Bul Racing,1:22.499,104,52,,Extra test),2008,5,3,2008-5-3.gif
-8,31,Luca Badoer,ITA,Scuderia Ferrari Ivtarboro,1:22.535,102,82,,Extra test),2008,5,3,2008-5-3.gif
-9,5,Femando Alonso,ESP,Ing Renaut F1,1:22.657,61,32,,Extra test),2008,5,3,2008-5-3.gif
-10,12,Timo Glock,GER,Panasonic Toyota Racing,1:22.901,110,98,,Extra test),2008,5,3,2008-5-3.gif
-1,16,Nelson Piquet,BRA,Ing Renaut F1,1:23.286,105,91,,Extra test),2008,5,3,2008-5-3.gif
-12,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:24.132,56,33,,Extra test),2008,5,3,2008-5-3.gif
-13,34,F1Nico Hulkenberg,GER,Att Williams,1:24.222,54,44,,Extra test),2008,5,3,2008-5-3.gif
-1,15,Sebastian Vettel,GER,Red Bul Racing,1:19.055,87,44,,,2009,3,1,2009-3-1.gif
+6,2,Heikki Kovalainen,FIN,Wodafone Lc Laren Mvercedes,1:33.371,91,38.0,,,2009,3,2,2009-3-2.gif
+7,8,Nelson Piquet,BRA,Ing Renaut F1,1:33.476,99,12.0,,,2009,3,2,2009-3-2.gif
+1,7,Nico Rosberg,GER,Attwilliams,1:30.675,73,70.0,,Extra test),2008,5,1,2008-5-1.gif
+2,8,Kazuki Nakajma,JPN,Attwilliams,1:32.370,96,40.0,,Extra test),2008,5,1,2008-5-1.gif
+3,10,Mark Webber,AUS,Red Bui Racing,1:32.599,27,23.0,,Extra test),2008,5,1,2008-5-1.gif
+4,5,Femando Alonso,ESP,Ing Renaut F1,1:32.820,16,15.0,,Extra test),2008,5,1,2008-5-1.gif
+5,9,David Coulthard,GBR,Red Bul Racing,1:32.924,23,14.0,,Extra test),2008,5,1,2008-5-1.gif
+6,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:33.283,57,50.0,,Extra test),2008,5,1,2008-5-1.gif
+7,6,Nelson Piquet,BRA,Ing Renaut F1,1:40.073,8,6.0,,Extra test),2008,5,1,2008-5-1.gif
+1,5,Femando Alonso,ESP,Ing Renaut F1,1:18.483,100,62.0,70 March 2000,,2008,7,3,2008-7-3.gif
+2,51,Michael Schumacher,GER,Scuderia Ferrari Lvtarboro,1:19.323,83,15.0,70 March 2000,,2008,7,3,2008-7-3.gif
+3,20,Adrian Sutil,GER,Force India F1,1:19.424,102,37.0,70 March 2000,,2008,7,3,2008-7-3.gif
+,44,Robert Kubica,POL,B Sauber F1 Team,1:19.785,112,46.0,70 March 2000,,2008,7,3,2008-7-3.gif
+5,7,Nico Rosberg,GER,Attwlliams,1:19.841,65,59.0,70 March 2000,,2008,7,3,2008-7-3.gif
+6,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:19.920,141,82.0,70 March 2000,,2008,7,3,2008-7-3.gif
+7,22,Lewis Hamilton,GBR,Odafone Mclaren Mercedes,1:20.591,102,30.0,70 March 2000,,2008,7,3,2008-7-3.gif
+8,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.715,71,67.0,70 March 2000,,2008,7,3,2008-7-3.gif
+9,10,Mark Webber,AUS,Red Bul Racing,1:20.849,87,29.0,70 March 2000,,2008,7,3,2008-7-3.gif
+10,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.867,90,32.0,70 March 2000,,2008,7,3,2008-7-3.gif
+1,2,Felipe Massa,BRA,Scuderia Ferrari Vtarboro,1:18.339,77,71.0,,,2008,7,1,2008-7-1.gif
+28,8,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.059,75,38.0,,,2008,7,1,2008-7-1.gif
+3,41,Pedro Dela Rosa,ESP,Vodafone Claren Vercedes,1:21.566,113,52.0,,,2008,7,1,2008-7-1.gif
+,43,Nick Heidfeld,GER,B Sauber F1 Team,1:21.679,105,98.0,,,2008,7,1,2008-7-1.gif
+,56,Nelson Piquet,BRA,Ing Renaut F1,1:21.913,91,90.0,,,2008,7,1,2008-7-1.gif
+6,9,David Coulthard,GBR,Red Bul Racing,1:22.193,59,43.0,,,2008,7,1,2008-7-1.gif
+7,8,Kazuki Nakajma,JPN,Att Wlliams,1:22.431,72,55.0,,,2008,7,1,2008-7-1.gif
+8,12,Timo Glock,GER,Panasonic Toyota Racing,1:22.590,93,47.0,,,2008,7,1,2008-7-1.gif
+9,40,Vitantonio Liuzzi,ITA,Force India F1,1:22.846,91,40.0,,,2008,7,1,2008-7-1.gif
+1,8,Kazuki Nakajma,JPN,Attwilliams,1:22.153,32,31.0,,Extra test),2008,5,3,2008-5-3.gif
+2,23,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:22.185,64,52.0,,Extra test),2008,5,3,2008-5-3.gif
+3,41,Pedro Dela Rosa,ESP,Vodatone Laren Mercedes,1:22.208,92,56.0,,Extra test),2008,5,3,2008-5-3.gif
+4,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:22.213,96,82.0,,Extra test),2008,5,3,2008-5-3.gif
+5,7,Nico Rosberg,GER,Att Williams,1:22.248,109,96.0,,Extra test),2008,5,3,2008-5-3.gif
+6,10,Markwebber,AUS,Red Bul Racing,1:22.477,82,81.0,,Extra test),2008,5,3,2008-5-3.gif
+7,9,David Coulthari,GBR,Red Bul Racing,1:22.499,104,52.0,,Extra test),2008,5,3,2008-5-3.gif
+8,31,Luca Badoer,ITA,Scuderia Ferrari Ivtarboro,1:22.535,102,82.0,,Extra test),2008,5,3,2008-5-3.gif
+9,5,Femando Alonso,ESP,Ing Renaut F1,1:22.657,61,32.0,,Extra test),2008,5,3,2008-5-3.gif
+10,12,Timo Glock,GER,Panasonic Toyota Racing,1:22.901,110,98.0,,Extra test),2008,5,3,2008-5-3.gif
+1,16,Nelson Piquet,BRA,Ing Renaut F1,1:23.286,105,91.0,,Extra test),2008,5,3,2008-5-3.gif
+12,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:24.132,56,33.0,,Extra test),2008,5,3,2008-5-3.gif
+13,34,F1Nico Hulkenberg,GER,Att Williams,1:24.222,54,44.0,,Extra test),2008,5,3,2008-5-3.gif
+1,15,Sebastian Vettel,GER,Red Bul Racing,1:19.055,87,44.0,,,2009,3,1,2009-3-1.gif
 2,3,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:20.330,60,,,,2009,3,1,2009-3-1.gif
-3,35,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:20.699,79,14,,,2009,3,1,2009-3-1.gif
-4,16,Nico Rosberg,GER,Attwilliams,1:21.171,71,65,,,2009,3,1,2009-3-1.gif
-5,5,Robert Kubica,POL,Bisauber F1 Team,1:21.292,47,41,,,2009,3,1,2009-3-1.gif
-6,21,Giancarlo Fisichella,ITA,Force India F1,1:21.584,31,22,,,2009,3,1,2009-3-1.gif
+3,35,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:20.699,79,14.0,,,2009,3,1,2009-3-1.gif
+4,16,Nico Rosberg,GER,Attwilliams,1:21.171,71,65.0,,,2009,3,1,2009-3-1.gif
+5,5,Robert Kubica,POL,Bisauber F1 Team,1:21.292,47,41.0,,,2009,3,1,2009-3-1.gif
+6,21,Giancarlo Fisichella,ITA,Force India F1,1:21.584,31,22.0,,,2009,3,1,2009-3-1.gif
 7,31,Pedro Dela Rosa,ESP,Odafone Mclaren Mercedes,1:21.831,94,,,,2009,3,1,2009-3-1.gif
-8,8,Nelson Piquet,BRA,Ing Renaut F1,1:22.011,52,50,,,2009,3,1,2009-3-1.gif
-1,11,Sebastien Bubml,SUI,Scuderia Toro Rosso,1:27.987,128,127,,,2009,1,3,2009-1-3.gif
-2,16,Nico Rosberg,GER,Attwilliams,1:29.729,143,127,,,2009,1,3,2009-1-3.gif
-3,1,Lewis Hamilton,GBR,Odafone Mclaren Ercedes,1:30.242,81,72,,,2009,1,3,2009-1-3.gif
+8,8,Nelson Piquet,BRA,Ing Renaut F1,1:22.011,52,50.0,,,2009,3,1,2009-3-1.gif
+1,11,Sebastien Bubml,SUI,Scuderia Toro Rosso,1:27.987,128,127.0,,,2009,1,3,2009-1-3.gif
+2,16,Nico Rosberg,GER,Attwilliams,1:29.729,143,127.0,,,2009,1,3,2009-1-3.gif
+3,1,Lewis Hamilton,GBR,Odafone Mclaren Ercedes,1:30.242,81,72.0,,,2009,1,3,2009-1-3.gif
 4,10,Timo Glock,GER,Panasonic Toyota Racing,1:30.878,58,,,,2009,1,3,2009-1-3.gif
-5,7,Femando Alonso,ESP,Ing Renaut F1,1:31.743,85,62,,,2009,1,3,2009-1-3.gif
-1,57,Takuma Sato,JPN,Scuderia Toro Rosso,1:20.763,121,36,,,2008,15,1,2008-15-1.gif
-2,37,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:21.071,117,29,,,2008,15,1,2008-15-1.gif
-3,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.198,77,18,,,2008,15,1,2008-15-1.gif
-4,41,Pedro Dela Rosa,ESP,Vodafone Mlaren Mercedes,1:21.417,65,20,,,2008,15,1,2008-15-1.gif
-5,61,Gary Paffett,GBR,Vodafone Mclaren Mercedes,1:21.956,78,65,,,2008,15,1,2008-15-1.gif
-6,31,Luca Badoer,ITA,Scuderia Ferrari Ivtarboro,1:22.038,94,93,,,2008,15,1,2008-15-1.gif
-7,4,Robert Kubica,POL,Bmsauber F1 Team,1:22.341,56,47,,,2008,15,1,2008-15-1.gif
-8,75,Sebastien Loeb,FRA,Red Bul Racing,1:22.503,82,71,,,2008,15,1,2008-15-1.gif
-9,6,Nelson Piquet,BRA,Ing Renaut F1,1:22.560,80,78,,,2008,15,1,2008-15-1.gif
-10,32,Christian Klien,AUT,B Sauber F1 Team,1:22.883,53,37,,,2008,15,1,2008-15-1.gif
-11,34,Nico Hulkenberg,GER,Att Williams,1:23.467,116,79,,,2008,15,1,2008-15-1.gif
-12,40,Vitantonio Liuzzi,ITA,Force India F1,1:23.794,86,89,,,2008,15,1,2008-15-1.gif
-13,20,Adrian Sutil,GER,Force India F1,1:23.832,88,81,,,2008,15,1,2008-15-1.gif
-14,71,Marc Gene,ESP,Scuderia Ferrari Ivtarboro,1:24.177,32,31,,,2008,15,1,2008-15-1.gif
-15,80,Bruno Senna,BRA,Honda Racing F1 Team,1:24.343,39,37,,,2008,15,1,2008-15-1.gif
-16,73,Giedo Van Der Garde,NED,Ing Renaut F1,1:24.908,32,27,,,2008,15,1,2008-15-1.gif
-17,79,Lucas Dgrass,BRA,Honda Racing F1 Team,1:25.512,48,37,,,2008,15,1,2008-15-1.gif
-1,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:30.673,40,14,,Extra),2008,5,2,2008-5-2.gif
-2,10,Mark Webber,AUS,Red Bul Racing,1:31.213,43,38,,Extra),2008,5,2,2008-5-2.gif
-3,31,Luca Badoer,ITA,Scuderia Ferrari Mtarboro,1:31.288,33,27,,Extra),2008,5,2,2008-5-2.gif
-,49,David Coulthard,GBR,Red Bul Racing,1:31.654,44,43,,Extra),2008,5,2,2008-5-2.gif
-5,5,Femando Alonso,ESP,Ing Renaut F1,1:31.731,28,8,,Extra),2008,5,2,2008-5-2.gif
-6,7,Nico Rosberg,GER,Attwlliams,1:31.963,97,41,,Extra),2008,5,2,2008-5-2.gif
-7,12,Timo Glock,GER,Panasonic Toyota Racing,1:32.407,33,23,,Extra),2008,5,2,2008-5-2.gif
-8,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:32.571,47,31,,Extra),2008,5,2,2008-5-2.gif
-9,34,Nico Hulkenberg,GER,Att Wlliams,1:33.102,53,24,,Extra),2008,5,2,2008-5-2.gif
-1,37,Daniel Ricciardo,AUS,Red Bul Racing,1:17.418,77,31,,,2009,5,3,2009-5-3.gif
-2,60,Paul Di Resta,GBR,Force India F1,1:18.736,53,43,,,2009,5,3,2009-5-3.gif
-3,31,Gary Paffett,GBR,Odafone Mclaren Ercedes,1:18.746,59,51,,,2009,5,3,2009-5-3.gif
-4,41,Mike Conay,GBR,D9 Umejg,1:19.096,77,99,,,2009,5,3,2009-5-3.gif
-5,38,Nico Hulkenberg,GER,Attwilliams F1,1:19.226,106,23,,,2009,5,3,2009-5-3.gif
-6,73,Bertrand Baguette,BEL,Bisauber F1 Team,1:19.356,70,68,,,2009,5,3,2009-5-3.gif
-7,51,Oliver Turvey,GBR,Odafone Mclaren Mercedes,1:19.358,32,25,,,2009,5,3,2009-5-3.gif
-8,61,Marcus Ericsson,SWE,Brawn Gp,1:19.382,49,39,,,2009,5,3,2009-5-3.gif
-9,74,Lucas Digrassi,BRA,Renaut F1,1:19.602,123,91,,,2009,5,3,2009-5-3.gif
-10,40,Jr Hildebrand,USA,Force India F1,1:19.873,41,14,,,2009,5,3,2009-5-3.gif
-,92,Pablo Sanchez Lopez,MEX,Scuderia Ferrari Ivtarboro,1:21.068,39,38,,,2009,5,3,2009-5-3.gif
-12,52,Daniei Zampieri,ITA,Scuderia Ferrari Ivtarboro,1:21.279,42,38,,,2009,5,3,2009-5-3.gif
-13,72,Marco Poli,ITA,Scuderia Ferrari Ivtarboro,1:21.725,41,35,,,2009,5,3,2009-5-3.gif
-14,36,Brendon Hartley,NZL,Scuderia Toro Rosso,1:22.493,50,28,,,2009,5,3,2009-5-3.gif
-15,56,Mirko Bortolotti,ITA,Scuderia Toro Rosso,1:23.271,34,23,,,2009,5,3,2009-5-3.gif
-16,54,Hopin Tung,CHN,Renaut F1,1:32.477,4,3,,,2009,5,3,2009-5-3.gif
-1,6,Nick Heidfeld,GER,Bsauber F1 Team,1:20.052,123,92,,,2009,3,5,2009-3-5.gif
-2,4,Kimi Raikkonen,FIN,Scuderia Ferrari Lvtariboro,1:20.414,112,49,,,2009,3,5,2009-3-5.gif
-3,1,Lewis Hamilton,GBR,Odafone Mclaren Mercedes,1:21.272,58,48,,,2009,3,5,2009-3-5.gif
-4,14,Markwebber,AUS,Red Bul Racing,1:22.219,47,30,,,2009,3,5,2009-3-5.gif
-5,17,Kazuki Nakajma,JPN,Att Wlliams,1:22.226,54,42,,,2009,3,5,2009-3-5.gif
-,69,Jamo Trulli,ITA,Panasonic Toyota Racing,1:23.119,38,26,,,2009,3,5,2009-3-5.gif
-1,12,Timo Glock,GER,Panasonic Toyota Racing,1:19.779,96,84,70 January 200o,,2008,1,3,2008-1-3.gif
-2,22,Lewis Hamilton,GBR,Vodafone M Laren Mercedes,1:20.099,73,61,70 January 200o,,2008,1,3,2008-1-3.gif
-3,5,Femando Alonso,ESP,Ing Renaut F1,1:20.363,49,46,70 January 200o,,2008,1,3,2008-1-3.gif
-4,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.407,61,58,70 January 200o,,2008,1,3,2008-1-3.gif
-5,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:20.500,85,79,70 January 200o,,2008,1,3,2008-1-3.gif
-6,23,Heikki Kovalainen,FIN,Vodafone Mc Laren Mercedes,1:20.535,79,71,70 January 200o,,2008,1,3,2008-1-3.gif
-7,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:20.577,53,45,70 January 200o,,2008,1,3,2008-1-3.gif
-8,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:20.646,88,59,70 January 200o,,2008,1,3,2008-1-3.gif
-10,20,Adrian Sutil,GER,Force India F1,1:21.705,71,69,70 January 200o,,2008,1,3,2008-1-3.gif
-11,10,Mark Webber,AUS,Red Bul Racing,1:22.275,53,50,70 January 200o,,2008,1,3,2008-1-3.gif
-12,9,David Coulthard,GBR,Red Bul Racing,1:22.581,54,43,70 January 200o,,2008,1,3,2008-1-3.gif
-13,34,Nico Hulkenberg,GER,Attwilliams,1:24.023,65,56,70 January 200o,,2008,1,3,2008-1-3.gif
-14,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:24.873,50,45,70 January 200o,,2008,1,3,2008-1-3.gif
-1,7,Femando Alonso,ESP,Ing Renaut F1,1:19.945,130,13,04 March 2003,,2009,3,4,2009-3-4.gif
-2,4,Kimi Raikkonen,FIN,Scuderia Ferrari Mvtarboro,1:20.250,105,30,04 March 2003,,2009,3,4,2009-3-4.gif
-3,6,Nick Heidfeld,GER,Bsauber F1 Team,1:20.520,99,19,04 March 2003,,2009,3,4,2009-3-4.gif
-4,9,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.540,131,99,04 March 2003,,2009,3,4,2009-3-4.gif
-5,14,Mark Webber,AUS,Red Bul Racing,1:20.894,107,23,04 March 2003,,2009,3,4,2009-3-4.gif
-6,17,Kazuki Nakaja,JPN,Attwlliams,1:20.948,83,21,04 March 2003,,2009,3,4,2009-3-4.gif
-7,1,Lewis Hamilton,GBR,Odafone Mclaren Ercedes,1:21.302,70,59,04 March 2003,,2009,3,4,2009-3-4.gif
-8,20,Adrian Sutil,GER,Force India F1,1:21.411,79,76,04 March 2003,,2009,3,4,2009-3-4.gif
-1,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:22.263,84,54,,,2008,3,1,2008-3-1.gif
-2,5,Femando Alonso,ESP,Ing Renaut F1,1:22.889,61,33,,,2008,3,1,2008-3-1.gif
-3,4,Robert Kubica,POL,Bsauber F1 Team,1:22.983,66,39,,,2008,3,1,2008-3-1.gif
-4,21,Giancarlo Fisichella,ITA,Force India F1,1:23.015,100,37,,,2008,3,1,2008-3-1.gif
-,53,Nick Heidfeld,GER,B Sauber F1 Team,1:23.270,53,18,,,2008,3,1,2008-3-1.gif
-6,61,Gary Paffett,GBR,Vodafone Mlaren Mercedes,1:23.349,47,35,,,2008,3,1,2008-3-1.gif
-7,6,Nelson Piquet,BRA,Ing Renaut F1,1:23.367,46,43,,,2008,3,1,2008-3-1.gif
-8,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:23.387,90,45,,,2008,3,1,2008-3-1.gif
-9,7,Nico Rosberg,GER,Attwlliams,1:23.453,12,10,,,2008,3,1,2008-3-1.gif
-10,9,David Coulthard,GBR,Red Bul Racing,1:23.491,60,40,,,2008,3,1,2008-3-1.gif
+5,7,Femando Alonso,ESP,Ing Renaut F1,1:31.743,85,62.0,,,2009,1,3,2009-1-3.gif
+1,57,Takuma Sato,JPN,Scuderia Toro Rosso,1:20.763,121,36.0,,,2008,15,1,2008-15-1.gif
+2,37,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:21.071,117,29.0,,,2008,15,1,2008-15-1.gif
+3,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.198,77,18.0,,,2008,15,1,2008-15-1.gif
+4,41,Pedro Dela Rosa,ESP,Vodafone Mlaren Mercedes,1:21.417,65,20.0,,,2008,15,1,2008-15-1.gif
+5,61,Gary Paffett,GBR,Vodafone Mclaren Mercedes,1:21.956,78,65.0,,,2008,15,1,2008-15-1.gif
+6,31,Luca Badoer,ITA,Scuderia Ferrari Ivtarboro,1:22.038,94,93.0,,,2008,15,1,2008-15-1.gif
+7,4,Robert Kubica,POL,Bmsauber F1 Team,1:22.341,56,47.0,,,2008,15,1,2008-15-1.gif
+8,75,Sebastien Loeb,FRA,Red Bul Racing,1:22.503,82,71.0,,,2008,15,1,2008-15-1.gif
+9,6,Nelson Piquet,BRA,Ing Renaut F1,1:22.560,80,78.0,,,2008,15,1,2008-15-1.gif
+10,32,Christian Klien,AUT,B Sauber F1 Team,1:22.883,53,37.0,,,2008,15,1,2008-15-1.gif
+11,34,Nico Hulkenberg,GER,Att Williams,1:23.467,116,79.0,,,2008,15,1,2008-15-1.gif
+12,40,Vitantonio Liuzzi,ITA,Force India F1,1:23.794,86,89.0,,,2008,15,1,2008-15-1.gif
+13,20,Adrian Sutil,GER,Force India F1,1:23.832,88,81.0,,,2008,15,1,2008-15-1.gif
+14,71,Marc Gene,ESP,Scuderia Ferrari Ivtarboro,1:24.177,32,31.0,,,2008,15,1,2008-15-1.gif
+15,80,Bruno Senna,BRA,Honda Racing F1 Team,1:24.343,39,37.0,,,2008,15,1,2008-15-1.gif
+16,73,Giedo Van Der Garde,NED,Ing Renaut F1,1:24.908,32,27.0,,,2008,15,1,2008-15-1.gif
+17,79,Lucas Dgrass,BRA,Honda Racing F1 Team,1:25.512,48,37.0,,,2008,15,1,2008-15-1.gif
+1,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:30.673,40,14.0,,Extra),2008,5,2,2008-5-2.gif
+2,10,Mark Webber,AUS,Red Bul Racing,1:31.213,43,38.0,,Extra),2008,5,2,2008-5-2.gif
+3,31,Luca Badoer,ITA,Scuderia Ferrari Mtarboro,1:31.288,33,27.0,,Extra),2008,5,2,2008-5-2.gif
+,49,David Coulthard,GBR,Red Bul Racing,1:31.654,44,43.0,,Extra),2008,5,2,2008-5-2.gif
+5,5,Femando Alonso,ESP,Ing Renaut F1,1:31.731,28,8.0,,Extra),2008,5,2,2008-5-2.gif
+6,7,Nico Rosberg,GER,Attwlliams,1:31.963,97,41.0,,Extra),2008,5,2,2008-5-2.gif
+7,12,Timo Glock,GER,Panasonic Toyota Racing,1:32.407,33,23.0,,Extra),2008,5,2,2008-5-2.gif
+8,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:32.571,47,31.0,,Extra),2008,5,2,2008-5-2.gif
+9,34,Nico Hulkenberg,GER,Att Wlliams,1:33.102,53,24.0,,Extra),2008,5,2,2008-5-2.gif
+1,37,Daniel Ricciardo,AUS,Red Bul Racing,1:17.418,77,31.0,,,2009,5,3,2009-5-3.gif
+2,60,Paul Di Resta,GBR,Force India F1,1:18.736,53,43.0,,,2009,5,3,2009-5-3.gif
+3,31,Gary Paffett,GBR,Odafone Mclaren Ercedes,1:18.746,59,51.0,,,2009,5,3,2009-5-3.gif
+4,41,Mike Conay,GBR,D9 Umejg,1:19.096,77,99.0,,,2009,5,3,2009-5-3.gif
+5,38,Nico Hulkenberg,GER,Attwilliams F1,1:19.226,106,23.0,,,2009,5,3,2009-5-3.gif
+6,73,Bertrand Baguette,BEL,Bisauber F1 Team,1:19.356,70,68.0,,,2009,5,3,2009-5-3.gif
+7,51,Oliver Turvey,GBR,Odafone Mclaren Mercedes,1:19.358,32,25.0,,,2009,5,3,2009-5-3.gif
+8,61,Marcus Ericsson,SWE,Brawn Gp,1:19.382,49,39.0,,,2009,5,3,2009-5-3.gif
+9,74,Lucas Digrassi,BRA,Renaut F1,1:19.602,123,91.0,,,2009,5,3,2009-5-3.gif
+10,40,Jr Hildebrand,USA,Force India F1,1:19.873,41,14.0,,,2009,5,3,2009-5-3.gif
+,92,Pablo Sanchez Lopez,MEX,Scuderia Ferrari Ivtarboro,1:21.068,39,38.0,,,2009,5,3,2009-5-3.gif
+12,52,Daniei Zampieri,ITA,Scuderia Ferrari Ivtarboro,1:21.279,42,38.0,,,2009,5,3,2009-5-3.gif
+13,72,Marco Poli,ITA,Scuderia Ferrari Ivtarboro,1:21.725,41,35.0,,,2009,5,3,2009-5-3.gif
+14,36,Brendon Hartley,NZL,Scuderia Toro Rosso,1:22.493,50,28.0,,,2009,5,3,2009-5-3.gif
+15,56,Mirko Bortolotti,ITA,Scuderia Toro Rosso,1:23.271,34,23.0,,,2009,5,3,2009-5-3.gif
+16,54,Hopin Tung,CHN,Renaut F1,1:32.477,4,3.0,,,2009,5,3,2009-5-3.gif
+1,6,Nick Heidfeld,GER,Bsauber F1 Team,1:20.052,123,92.0,,,2009,3,5,2009-3-5.gif
+2,4,Kimi Raikkonen,FIN,Scuderia Ferrari Lvtariboro,1:20.414,112,49.0,,,2009,3,5,2009-3-5.gif
+3,1,Lewis Hamilton,GBR,Odafone Mclaren Mercedes,1:21.272,58,48.0,,,2009,3,5,2009-3-5.gif
+4,14,Markwebber,AUS,Red Bul Racing,1:22.219,47,30.0,,,2009,3,5,2009-3-5.gif
+5,17,Kazuki Nakajma,JPN,Att Wlliams,1:22.226,54,42.0,,,2009,3,5,2009-3-5.gif
+,69,Jamo Trulli,ITA,Panasonic Toyota Racing,1:23.119,38,26.0,,,2009,3,5,2009-3-5.gif
+1,12,Timo Glock,GER,Panasonic Toyota Racing,1:19.779,96,84.0,70 January 200o,,2008,1,3,2008-1-3.gif
+2,22,Lewis Hamilton,GBR,Vodafone M Laren Mercedes,1:20.099,73,61.0,70 January 200o,,2008,1,3,2008-1-3.gif
+3,5,Femando Alonso,ESP,Ing Renaut F1,1:20.363,49,46.0,70 January 200o,,2008,1,3,2008-1-3.gif
+4,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.407,61,58.0,70 January 200o,,2008,1,3,2008-1-3.gif
+5,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:20.500,85,79.0,70 January 200o,,2008,1,3,2008-1-3.gif
+6,23,Heikki Kovalainen,FIN,Vodafone Mc Laren Mercedes,1:20.535,79,71.0,70 January 200o,,2008,1,3,2008-1-3.gif
+7,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:20.577,53,45.0,70 January 200o,,2008,1,3,2008-1-3.gif
+8,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:20.646,88,59.0,70 January 200o,,2008,1,3,2008-1-3.gif
+10,20,Adrian Sutil,GER,Force India F1,1:21.705,71,69.0,70 January 200o,,2008,1,3,2008-1-3.gif
+11,10,Mark Webber,AUS,Red Bul Racing,1:22.275,53,50.0,70 January 200o,,2008,1,3,2008-1-3.gif
+12,9,David Coulthard,GBR,Red Bul Racing,1:22.581,54,43.0,70 January 200o,,2008,1,3,2008-1-3.gif
+13,34,Nico Hulkenberg,GER,Attwilliams,1:24.023,65,56.0,70 January 200o,,2008,1,3,2008-1-3.gif
+14,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:24.873,50,45.0,70 January 200o,,2008,1,3,2008-1-3.gif
+1,7,Femando Alonso,ESP,Ing Renaut F1,1:19.945,130,13.0,04 March 2003,,2009,3,4,2009-3-4.gif
+2,4,Kimi Raikkonen,FIN,Scuderia Ferrari Mvtarboro,1:20.250,105,30.0,04 March 2003,,2009,3,4,2009-3-4.gif
+3,6,Nick Heidfeld,GER,Bsauber F1 Team,1:20.520,99,19.0,04 March 2003,,2009,3,4,2009-3-4.gif
+4,9,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.540,131,99.0,04 March 2003,,2009,3,4,2009-3-4.gif
+5,14,Mark Webber,AUS,Red Bul Racing,1:20.894,107,23.0,04 March 2003,,2009,3,4,2009-3-4.gif
+6,17,Kazuki Nakaja,JPN,Attwlliams,1:20.948,83,21.0,04 March 2003,,2009,3,4,2009-3-4.gif
+7,1,Lewis Hamilton,GBR,Odafone Mclaren Ercedes,1:21.302,70,59.0,04 March 2003,,2009,3,4,2009-3-4.gif
+8,20,Adrian Sutil,GER,Force India F1,1:21.411,79,76.0,04 March 2003,,2009,3,4,2009-3-4.gif
+1,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:22.263,84,54.0,,,2008,3,1,2008-3-1.gif
+2,5,Femando Alonso,ESP,Ing Renaut F1,1:22.889,61,33.0,,,2008,3,1,2008-3-1.gif
+3,4,Robert Kubica,POL,Bsauber F1 Team,1:22.983,66,39.0,,,2008,3,1,2008-3-1.gif
+4,21,Giancarlo Fisichella,ITA,Force India F1,1:23.015,100,37.0,,,2008,3,1,2008-3-1.gif
+,53,Nick Heidfeld,GER,B Sauber F1 Team,1:23.270,53,18.0,,,2008,3,1,2008-3-1.gif
+6,61,Gary Paffett,GBR,Vodafone Mlaren Mercedes,1:23.349,47,35.0,,,2008,3,1,2008-3-1.gif
+7,6,Nelson Piquet,BRA,Ing Renaut F1,1:23.367,46,43.0,,,2008,3,1,2008-3-1.gif
+8,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:23.387,90,45.0,,,2008,3,1,2008-3-1.gif
+9,7,Nico Rosberg,GER,Attwlliams,1:23.453,12,10.0,,,2008,3,1,2008-3-1.gif
+10,9,David Coulthard,GBR,Red Bul Racing,1:23.491,60,40.0,,,2008,3,1,2008-3-1.gif
 11,10,Mark Webber,AUS,Red Bul Racing,1:23.547,38,,,,2008,3,1,2008-3-1.gif
-12,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:23.836,65,58,,,2008,3,1,2008-3-1.gif
-14,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:24.125,55,27,,,2008,3,1,2008-3-1.gif
-15,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:26.975,26,21,,,2008,3,1,2008-3-1.gif
-1,31,Gary Paffett,GBR,Odafone Mlaren Ercedes,1:18.718,80,42,,,2009,5,2,2009-5-2.gif
-23,8,Nico Hulkenberg,GER,Attwilliams F1,1:19.184,94,9,,,2009,5,2,2009-5-2.gif
-3,37,Daniel Ricciardo,AUS,Red Bul Racing,1:19.243,92,16,,,2009,5,2,2009-5-2.gif
-4,60,Paul Di Resta,GBR,Force India F1,1:19.411,58,42,,,2009,5,2,2009-5-2.gif
-5,53,Esteban Gutierrez,MEX,B Sauber F1 Team,1:20.190,68,59,,,2009,5,2,2009-5-2.gif
-6,41,Mike Conay,GBR,Brawn Gp,1:20.222,83,14,,,2009,5,2,2009-5-2.gif
-7,61,Marcus Ericsson,SWE,Brawn Gp,1:20.440,37,20,,,2009,5,2,2009-5-2.gif
-8,40,Jr Hildebrand,USA,Force India F1,1:20.517,49,35,,,2009,5,2,2009-5-2.gif
-9,32,Jules Bianchi,FRA,Scuderia Ferrari Mvtarboro,1:20.586,113,97,,,2009,5,2,2009-5-2.gif
-10,74,Lucas Dgrassi,BRA,Renaut F1,1:20.898,54,26,,,2009,5,2,2009-5-2.gif
-11,54,Hopin Tung,CHN,Renaut F1,1:21.492,67,53,,,2009,5,2,2009-5-2.gif
-12,56,Mirko Bortolotti,ITA,Scuderia Toro Rosso,1:21.761,79,21,,,2009,5,2,2009-5-2.gif
-1,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:14.872,101,36,,,2008,11,2,2008-11-2.gif
-2,7,Nico Rosberg,GER,Attwlliams,1:15.257,117,99,,,2008,11,2,2008-11-2.gif
-3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Vtarboro,1:15.296,90,41,,,2008,11,2,2008-11-2.gif
-4,9,David Coulthard,GBR,Red Bul Racing,1:15.767,42,36,,,2008,11,2,2008-11-2.gif
-5,20,Adrian Sutil,GER,Force India F1,1:15.945,97,55,,,2008,11,2,2008-11-2.gif
-6,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:15.955,62,55,,,2008,11,2,2008-11-2.gif
-7,12,Timo Glock,GER,Panasonic Toyota Racing,1:15.995,114,95,,,2008,11,2,2008-11-2.gif
-,85,Femando Alonso,ESP,Ing Renaut F1,1:16.141,106,101,,,2008,11,2,2008-11-2.gif
-9,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:16.144,90,64,,,2008,11,2,2008-11-2.gif
-10,10,Mark Webber,AUS,Red Bul Racing,1:16.217,70,47,,,2008,11,2,2008-11-2.gif
-1,13,Nick Heidfeld,GER,Bm Sauber F1 Team,1:16.235,115,67,,,2008,11,2,2008-11-2.gif
-12,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:16.550,36,34,,,2008,11,2,2008-11-2.gif
-1,10,Markwebber,AUS,Red Bui Racing,1:22.385,65,31,,,2008,3,3,2008-3-3.gif
-2,23,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:22.422,67,26,,,2008,3,3,2008-3-3.gif
-3,22,Lewis Hamilton,GBR,Vodatone Laren Mercedes,1:22.459,93,55,,,2008,3,3,2008-3-3.gif
-,44,Robert Kubica,POL,Bisauber F1 Team,1:22.492,83,13,,,2008,3,3,2008-3-3.gif
+12,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:23.836,65,58.0,,,2008,3,1,2008-3-1.gif
+14,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:24.125,55,27.0,,,2008,3,1,2008-3-1.gif
+15,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:26.975,26,21.0,,,2008,3,1,2008-3-1.gif
+1,31,Gary Paffett,GBR,Odafone Mlaren Ercedes,1:18.718,80,42.0,,,2009,5,2,2009-5-2.gif
+23,8,Nico Hulkenberg,GER,Attwilliams F1,1:19.184,94,9.0,,,2009,5,2,2009-5-2.gif
+3,37,Daniel Ricciardo,AUS,Red Bul Racing,1:19.243,92,16.0,,,2009,5,2,2009-5-2.gif
+4,60,Paul Di Resta,GBR,Force India F1,1:19.411,58,42.0,,,2009,5,2,2009-5-2.gif
+5,53,Esteban Gutierrez,MEX,B Sauber F1 Team,1:20.190,68,59.0,,,2009,5,2,2009-5-2.gif
+6,41,Mike Conay,GBR,Brawn Gp,1:20.222,83,14.0,,,2009,5,2,2009-5-2.gif
+7,61,Marcus Ericsson,SWE,Brawn Gp,1:20.440,37,20.0,,,2009,5,2,2009-5-2.gif
+8,40,Jr Hildebrand,USA,Force India F1,1:20.517,49,35.0,,,2009,5,2,2009-5-2.gif
+9,32,Jules Bianchi,FRA,Scuderia Ferrari Mvtarboro,1:20.586,113,97.0,,,2009,5,2,2009-5-2.gif
+10,74,Lucas Dgrassi,BRA,Renaut F1,1:20.898,54,26.0,,,2009,5,2,2009-5-2.gif
+11,54,Hopin Tung,CHN,Renaut F1,1:21.492,67,53.0,,,2009,5,2,2009-5-2.gif
+12,56,Mirko Bortolotti,ITA,Scuderia Toro Rosso,1:21.761,79,21.0,,,2009,5,2,2009-5-2.gif
+1,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:14.872,101,36.0,,,2008,11,2,2008-11-2.gif
+2,7,Nico Rosberg,GER,Attwlliams,1:15.257,117,99.0,,,2008,11,2,2008-11-2.gif
+3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Vtarboro,1:15.296,90,41.0,,,2008,11,2,2008-11-2.gif
+4,9,David Coulthard,GBR,Red Bul Racing,1:15.767,42,36.0,,,2008,11,2,2008-11-2.gif
+5,20,Adrian Sutil,GER,Force India F1,1:15.945,97,55.0,,,2008,11,2,2008-11-2.gif
+6,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:15.955,62,55.0,,,2008,11,2,2008-11-2.gif
+7,12,Timo Glock,GER,Panasonic Toyota Racing,1:15.995,114,95.0,,,2008,11,2,2008-11-2.gif
+,85,Femando Alonso,ESP,Ing Renaut F1,1:16.141,106,101.0,,,2008,11,2,2008-11-2.gif
+9,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:16.144,90,64.0,,,2008,11,2,2008-11-2.gif
+10,10,Mark Webber,AUS,Red Bul Racing,1:16.217,70,47.0,,,2008,11,2,2008-11-2.gif
+1,13,Nick Heidfeld,GER,Bm Sauber F1 Team,1:16.235,115,67.0,,,2008,11,2,2008-11-2.gif
+12,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:16.550,36,34.0,,,2008,11,2,2008-11-2.gif
+1,10,Markwebber,AUS,Red Bui Racing,1:22.385,65,31.0,,,2008,3,3,2008-3-3.gif
+2,23,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:22.422,67,26.0,,,2008,3,3,2008-3-3.gif
+3,22,Lewis Hamilton,GBR,Vodatone Laren Mercedes,1:22.459,93,55.0,,,2008,3,3,2008-3-3.gif
+,44,Robert Kubica,POL,Bisauber F1 Team,1:22.492,83,13.0,,,2008,3,3,2008-3-3.gif
 5,5,Femando Alonso,ESP,Ing Renaut F1,1:22.509,21,,,,2008,3,3,2008-3-3.gif
-6,3,Nick Heidfeld,GER,B Sauber F1 Team,1:22.874,80,17,,,2008,3,3,2008-3-3.gif
-7,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:22.877,80,12,,,2008,3,3,2008-3-3.gif
-8,9,David Coulthard,GBR,Red Bui Racing,1:22.889,82,11,,,2008,3,3,2008-3-3.gif
-9,6,Nelson Piquet,BRA,Ing Renaut F1,1:23.039,64,13,,,2008,3,3,2008-3-3.gif
-10,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:23.232,72,23,,,2008,3,3,2008-3-3.gif
-11,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:23.795,84,49,,,2008,3,3,2008-3-3.gif
-12,20,Adrian Sutil,GER,Force India F1,1:23.800,98,53,,,2008,3,3,2008-3-3.gif
-13,16,Jenson Button,GBR,Honda Racing F1 Team,1:23.808,98,57,,,2008,3,3,2008-3-3.gif
+6,3,Nick Heidfeld,GER,B Sauber F1 Team,1:22.874,80,17.0,,,2008,3,3,2008-3-3.gif
+7,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:22.877,80,12.0,,,2008,3,3,2008-3-3.gif
+8,9,David Coulthard,GBR,Red Bui Racing,1:22.889,82,11.0,,,2008,3,3,2008-3-3.gif
+9,6,Nelson Piquet,BRA,Ing Renaut F1,1:23.039,64,13.0,,,2008,3,3,2008-3-3.gif
+10,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:23.232,72,23.0,,,2008,3,3,2008-3-3.gif
+11,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:23.795,84,49.0,,,2008,3,3,2008-3-3.gif
+12,20,Adrian Sutil,GER,Force India F1,1:23.800,98,53.0,,,2008,3,3,2008-3-3.gif
+13,16,Jenson Button,GBR,Honda Racing F1 Team,1:23.808,98,57.0,,,2008,3,3,2008-3-3.gif
+1,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:19.845,59,41.0,74 January 2000,,2008,1,1,2008-1-1.gif
+2,2,Felipe Massa,BRA,Scuderia Ferrari Mtarboro,1:20.123,43,42.0,74 January 2000,,2008,1,1,2008-1-1.gif
+3,41,Pedro Dela Rosa,ESP,Odatone Laren Mercedes,1:20.548,54,39.0,74 January 2000,,2008,1,1,2008-1-1.gif
+4,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:20.732,40,36.0,74 January 2000,,2008,1,1,2008-1-1.gif
+5,23,Heikki Kovalainen,FIN,Odafone Mclaren Mercedes,1:20.936,49,18.0,74 January 2000,,2008,1,1,2008-1-1.gif
+6,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.997,47,38.0,74 January 2000,,2008,1,1,2008-1-1.gif
+7,7,Nico Rosberg,GER,Attwilliams,1:21.143,47,33.0,74 January 2000,,2008,1,1,2008-1-1.gif
+8,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:21.344,86,74.0,74 January 2000,,2008,1,1,2008-1-1.gif
+9,6,Nelson Piquet,BRA,Ing Renaut F1,1:21.595,41,33.0,74 January 2000,,2008,1,1,2008-1-1.gif
+10,9,David Coulthard,GBR,Red Bul Racing,1:21.745,51,36.0,74 January 2000,,2008,1,1,2008-1-1.gif
+11,40,Vitantonio Liuzzi,ITA,Force India F1,1:23.035,44,34.0,74 January 2000,,2008,1,1,2008-1-1.gif
+1,28,Kazuki Nakajma,JPN,Att Wlliams,1:23.134,42,37.0,74 January 2000,,2008,1,1,2008-1-1.gif
+13,12,Timo Glock,GER,Panasonic Toyota Racing,1:24.351,58,50.0,74 January 2000,,2008,1,1,2008-1-1.gif
+14,39,James Rossiter,GBR,Super Aguri F1 Team,1:34.852,10,9.0,74 January 2000,,2008,1,1,2008-1-1.gif
+1,31,Luca Badoer,ITA,Scuderia Ferrari Ivtarboro,1:22.412,81,27,,,2008,9,1,2008-9-1.gif
+2,4,Robert Kubica,POL,Bmsauber F1 Team,1:22.682,69,25,,,2008,9,1,2008-9-1.gif
+3,9,David Coulthard,GBR,Red Bul Racing,1:22.724,21,12,,,2008,9,1,2008-9-1.gif
+4,35,Sebastien Bu,SUI,Red Bul Racing,1:22.764,79,42,,,2008,9,1,2008-9-1.gif
+5,61,Gary Paffett,GBR,Wodafone M Laren Mercedes,1:22.938,38,34,,,2008,9,1,2008-9-1.gif
+6,58,Anthomy Davidson,GBR,Honda Racing F1 Team,1:23.208,81,78,,,2008,9,1,2008-9-1.gif
+7,34,Nico Hulkenberg,GER,Attwlliams,1:23.619,112,85,,,2008,9,1,2008-9-1.gif
+8,53,Romain Grosjean,FRA,Ing Renaut F1,1:23.899,60,26,,,2008,9,1,2008-9-1.gif
+9,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:24.442,82,43,,,2008,9,1,2008-9-1.gif
+1,22,Lewis Hamilton,GBR,Odafone Mlaren Ercedes,1:05.600,67,,,,2008,8,1,2008-8-1.gif
+2,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:06.098,103,72,,,2008,8,1,2008-8-1.gif
+3,4,Robert Kubica,POL,Bmsauber F1 Team,1:06.177,124,100,,,2008,8,1,2008-8-1.gif
+4,10,Mark Webber,AUS,Red Bul Racing,1:06.348,93,40,,,2008,8,1,2008-8-1.gif
+5,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:06.372,91,53,,,2008,8,1,2008-8-1.gif
+6,7,Nico Rosberg,GER,Attwilliams,1:06.571,154,153,,,2008,8,1,2008-8-1.gif
+7,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:06.681,131,107,,,2008,8,1,2008-8-1.gif
+8,12,Timo Glock,GER,Panasonic Toyota Racing,1:06.935,93,76,,,2008,8,1,2008-8-1.gif
+9,40,Vitantonio Liuzzi,ITA,Force India F1,1:07.346,106,84,,,2008,8,1,2008-8-1.gif
+10,33,Lucas Dgrass,BRA,Ing Renaut F1,1:07.430,146,144,,,2008,8,1,2008-8-1.gif
+1,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:05.381,102,36,,,2008,8,2,2008-8-2.gif
+2,23,Heikki Kovalainen,FIN,Vodafone Mclaren Mercedes,1:05.471,89,70,,,2008,8,2,2008-8-2.gif
+3,4,Robert Kubica,POL,Bsauber F1 Team,1:05.905,135,108,,,2008,8,2,2008-8-2.gif
+4,9,David Coulthard,GBR,Red Bul Racing,1:06.001,82,65,,,2008,8,2,2008-8-2.gif
+5,16,Jenson Button,GBR,Honda Racing F1 Team,1:06.091,155,120,,,2008,8,2,2008-8-2.gif
+6,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:06.125,110,26,,,2008,8,2,2008-8-2.gif
+7,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:06.205,120,35,,,2008,8,2,2008-8-2.gif
+8,6,Nelson Piquet,BRA,Ing Renaut F1,1:06.355,193,166,,,2008,8,2,2008-8-2.gif
+9,8,Kazuki Nakajma,JPN,Att Williams,1:07.080,129,24,,,2008,8,2,2008-8-2.gif
+10,20,Adrian Sutil,GER,Force India F1,1:07.104,66,55,,,2008,8,2,2008-8-2.gif
+11,21,Giancarlofisichella,ITA,Force India F1,1:07.123,43,,,,2008,8,2,2008-8-2.gif
+1,22,Lewis Hamilton,GBR,Vodafone Mlaren Mercedes,1:22.276,78,69,,,2008,6,1,2008-6-1.gif
+2,1,Kimi Raikkonen,FIN,Scuderia Ferrari Mtarboro,1:22.319,82,79,,,2008,6,1,2008-6-1.gif
+3,51,Michael Schumacher,GER,Scuderia Ferrari Mtarboro,1:22.428,83,69,,,2008,6,1,2008-6-1.gif
+,48,Kazuki Nakajma,JPN,Attwlliams,1:22.724,54,51,,,2008,6,1,2008-6-1.gif
+5,23,Heikki Kovalainen,FIN,Vodafone Mc Laren Mercedes,1:22.852,71,60,,,2008,6,1,2008-6-1.gif
+6,7,Nico Rosberg,GER,Attwlliams,1:22.974,108,84,,,2008,6,1,2008-6-1.gif
+7,5,Femando Alonso,ESP,Ing Renaut F1,1:23.021,79,69,,,2008,6,1,2008-6-1.gif
+8,3,Nick Heidfeld,GER,B Sauber F1 Team,1:23.075,75,70,,,2008,6,1,2008-6-1.gif
+9,20,Adrian Sutil,GER,Force India F1,1:23.091,62,59,,,2008,6,1,2008-6-1.gif
+10,10,Mark Webber,AUS,Red Bul Racing,1:23.115,71,59,,,2008,6,1,2008-6-1.gif
+11,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:23.188,95,85,,,2008,6,1,2008-6-1.gif
+12,40,Vitantonio Liuzzi,ITA,Force India F1,1:23.239,43,41,,,2008,6,1,2008-6-1.gif
+13,12,Timo Glock,GER,Panasonic Toyota Racing,1:23.270,70,99,,,2008,6,1,2008-6-1.gif
+14,32,Christian Klien,AUT,B Sauber F1 Team,1:23.442,42,34,,,2008,6,1,2008-6-1.gif
+15,6,Nelson Piquet,BRA,Ing Renaut F1,1:23.609,98,40,,,2008,6,1,2008-6-1.gif
+16,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:23.880,29,23,,,2008,6,1,2008-6-1.gif
+17,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:24.460,115,112,,,2008,6,1,2008-6-1.gif
+18,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:24.667,109,81,,,2008,6,1,2008-6-1.gif
+19,9,David Coulthard,GBR,Red Bul Racing,1:24.826,25,24,,,2008,6,1,2008-6-1.gif
+1,62,Kamui Kobaya Shi,JPN,Bmw Sauber F1 Team,1:19.950,103,102,11 February 2010,,2010,2,2,2010-2-2.gif
+2,16,Sebastien Buemi,SUI,Scuderia Toro Rosso,1:20.026,121,50,11 February 2010,,2010,2,2,2010-2-2.gif
+3,1,Jenson Button,GBR,Vodafone Mclaren Mercedes,1:20.618,33,26,11 February 2010,,2010,2,2,2010-2-2.gif
+4,10,Nico Hul Kenberg,GER,Att Williams,1:20.629,67,45,11 February 2010,,2010,2,2,2010-2-2.gif
+5,15,Vitantonio Liuzz,ITA,Force Inda F1 Team,1:20.754,30,86,11 February 2010,,2010,2,2,2010-2-2.gif
+6,3,Michael Schumacher,GER,Mercedes Gp Petronas,1:21.083,124,108,11 February 2010,,2010,2,2,2010-2-2.gif
+7,8,Femando Alonso,ESP,Scuderia Ferrari Marlboro,1:21.424,129,121,11 February 2010,,2010,2,2,2010-2-2.gif
+8,11,Robert Kubica,POL,Renault F1 Team,1:22.003,103,86,11 February 2010,,2010,2,2,2010-2-2.gif
+9,6,Mark Webber,AUS,Red Bul Racing,1:22.043,99,76,11 February 2010,,2010,2,2,2010-2-2.gif
+10,24,Timo Glock,GER,Virgin Racing,1:29.964,11,8,11 February 2010,,2010,2,2,2010-2-2.gif
+1,37,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:18.742,91,29,,,2008,16,1,2008-16-1.gif
+2,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:19.288,77,18,,,2008,16,1,2008-16-1.gif
+3,61,Gary Paffett,GBR,Vodatone Laren Mercedes,1:20.134,26,17,,,2008,16,1,2008-16-1.gif
+4,41,Pedro Dela Rosa,ESP,Odafone Mclaren Mercedes,1:20.164,21,15,,,2008,16,1,2008-16-1.gif
+5,1,Kimi Raikkonen,FIN,Scuderia Ferrari Ivtarboro,1:20.261,48,19,,,2008,16,1,2008-16-1.gif
+6,3,Nick Heidfeld,GER,Bmsauber F1 Team,1:20.678,49,44,,,2008,16,1,2008-16-1.gif
+7,8,Kazuki Nakajma,JPN,Attwilliams,1:21.338,57,42,,,2008,16,1,2008-16-1.gif
+8,6,Nelson Piquet,BRA,Ing Renaut F1,1:21.547,124,29,,,2008,16,1,2008-16-1.gif
+9,32,Christian Klien,AUT,Bmsauber F1 Team,1:22.098,15,14,,,2008,16,1,2008-16-1.gif
+1,72,Kevin Magnussen,DEN,Vodafone Mclaren Mercedes,1:42.651,40,31,06 November 2012,Abu dhabi,2012,7,1,2012-7-1.gif
+2,31,Antonio Felix Da Costa,POR,Red Bul Racing,1:42.717,79,22,06 November 2012,Abu dhabi,2012,7,1,2012-7-1.gif
+3,52,Gary Paffetto,GBR,Vodafone Mclaren Mercedes,1:43.407,44,43,06 November 2012,Abu dhabi,2012,7,1,2012-7-1.gif
+4,37,Robin Frijns,NED,Sauber F1 Team,1:43.775,78,71,06 November 2012,Abu dhabi,2012,7,1,2012-7-1.gif
+5,35,Nicolas Prost,FRA,Lotus F1 Team,1:44.194,55,52,06 November 2012,Abu dhabi,2012,7,1,2012-7-1.gif
+6,38,Luis Razia,BRA,Souderia Toro Rossc,1:44.691,67,64,06 November 2012,Abu dhabi,2012,7,1,2012-7-1.gif
+7,40,Giedo Van Der Garde,NED,Caterham F1 Team,1:45.936,57,56,06 November 2012,Abu dhabi,2012,7,1,2012-7-1.gif
+1,4,Nico Ro Sberg,GER,Mercedes Gp Petronas,1:20.927,57,8,10 February 2010,,2010,2,1,2010-2-1.gif
+2,16,Sebastien Buemi,SUI,Scuderia Toro Rosso,1:21.031,5,,10 February 2010,,2010,2,1,2010-2-1.gif
+3,10,Nico Hul Kenberg,GER,Att Williams,1:22.243,118,9,10 February 2010,,2010,2,1,2010-2-1.gif
+4,8,Femando Alonso,ESP,Scuderia Ferrari Marlboro,1:22.895,88,7,10 February 2010,,2010,2,1,2010-2-1.gif
+5,62,Kamui Kobaya Shi,JPN,Bmw Sauber F1 Team,1:23.287,55,5,10 February 2010,,2010,2,1,2010-2-1.gif
+6,1,Jenson Button,GBR,Vodafone Mclaren Mercedes,1:24.947,68,4,10 February 2010,,2010,2,1,2010-2-1.gif
+7,15,Vitantonio Liuzzi,ITA,Force India F1 Team,1:24.968,71,,10 February 2010,,2010,2,1,2010-2-1.gif
+8,12,Vitaly Petrov,RUS,Renault F1 Team,1:25.440,27,7,10 February 2010,,2010,2,1,2010-2-1.gif
+9,6,Mark Webber,AUS,Red Bul Racing,1:26.502,50,3,10 February 2010,,2010,2,1,2010-2-1.gif
+10,24,Timo Glock,GER,Virgin Racing,1:38.734,5,4,10 February 2010,,2010,2,1,2010-2-1.gif
+1,4,Nico Ro Sberg,GER,Mercedes Gp Petronas,1:20.686,128,20,27 February 2010,,2010,4,3,2010-4-3.gif
+2,16,Sebastien Buemi,SUI,Scuderia Toro Rosso,1:21.413,106,14,27 February 2010,,2010,4,3,2010-4-3.gif
+3,1,Jenson Button,GBR,Vodafone Mclaren Mercedes,1:21.450,105,104,27 February 2010,,2010,4,3,2010-4-3.gif
+,6,T F1 Rubens Barrichello,BRA,Att Williams,1:21.975,101,96,27 February 2010,,2010,4,3,2010-4-3.gif
+5,7,Felipe Ma Ssa,BRA,Scuderia Ferrari Marlboro,1:22.344,115,101,27 February 2010,,2010,4,3,2010-4-3.gif
+6,12,Vitaly Petrov,RUS,Renault F1 Team,1:22.523,68,45,27 February 2010,,2010,4,3,2010-4-3.gif
+7,14,Adrian Sutil,GER,Force India F1 Team,1:22.606,61,59,27 February 2010,,2010,4,3,2010-4-3.gif
+8,5,Sebastian Vettel,GER,Red Bul Racing,1:23.123,51,44,27 February 2010,,2010,4,3,2010-4-3.gif
+9,18,Jamo Trulli,ITA,Lotus Racing,1:25.059,102,15,27 February 2010,,2010,4,3,2010-4-3.gif
+10,62,Kamui Kobaya Shi,JPN,Bmw Sauber F1 Team,1:26.216,105,7,27 February 2010,,2010,4,3,2010-4-3.gif
+11,24,Timo Glock,GER,Virgin Racing,1:26.305,31,25,27 February 2010,,2010,4,3,2010-4-3.gif
+1,22,Lewis Hamilton,GBR,Odafone Mlaren Ercedes,1:19.170,88,20,,,2008,10,3,2008-10-3.gif
+2,12,Timo Glock,GER,Panasonic Toyota Racing,1:19.815,79,54,,,2008,10,3,2008-10-3.gif
+3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Lvtarbor,1:20.321,60,13,,,2008,10,3,2008-10-3.gif
+,45,Femando Alons,ESP,Ing Renaut F1,1:20.862,78,65,,,2008,10,3,2008-10-3.gif
+5,3,Nick Heidfeld,GER,B Sauber F1 Team,1:21.011,93,41,,,2008,10,3,2008-10-3.gif
+6,8,Kazuki Nakajma,JPN,Attwilliams,1:21.059,70,29,,,2008,10,3,2008-10-3.gif
+7,20,Adrian Sutil,GER,Force India F1,1:21.331,71,55,,,2008,10,3,2008-10-3.gif
+8,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:21.344,94,39,,,2008,10,3,2008-10-3.gif
+9,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:21.432,76,73,,,2008,10,3,2008-10-3.gif
+1,09,Daid Coulthard,GBR,Red Bul Racing,1:22.232,31,29,,,2008,10,3,2008-10-3.gif
+1,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:19.844,94,23,,,2008,12,1,2008-12-1.gif
+2,61,Garypaffett,GBR,Odafone Mlaren Ercedes,1:20.179,80,29,,,2008,12,1,2008-12-1.gif
+3,31,Luca Badoer,ITA,Scuderia Ferrari Mtarboro,1:20.697,69,65,,,2008,12,1,2008-12-1.gif
+4,34,Nico Hulkenberg,GER,Attwilliams,1:20.953,58,27,,,2008,12,1,2008-12-1.gif
+5,35,Sebastienbubml,SUI,Red Bul Racing,1:20.997,110,18,,,2008,12,1,2008-12-1.gif
+6,53,Romain Grosjean,FRA,Ing Renaut F1,1:21.223,71,69,,,2008,12,1,2008-12-1.gif
+7,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:21.459,96,30,,,2008,12,1,2008-12-1.gif
+8,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:21.596,84,29,,,2008,12,1,2008-12-1.gif
+1,10,Markwebber,AUS,Red Bul Racing,1:19.176,85,59,,,2008,12,3,2008-12-3.gif
+2,6,Nelson Piquet,BRA,Ing Renaut F1,1:19.334,95,60,,,2008,12,3,2008-12-3.gif
+3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Vtarboro,1:19.434,80,,,,2008,12,3,2008-12-3.gif
+4,40,Vitantonio Liuzzi,ITA,Force India F1,1:19.544,98,71,,,2008,12,3,2008-12-3.gif
+5,41,Pedro Delarosa,ESP,Odafone Mclaren Mercedes,1:19.850,39,26,,,2008,12,3,2008-12-3.gif
+6,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.029,77,29,,,2008,12,3,2008-12-3.gif
+7,8,Kazuki Nakajma,JPN,Attwilliams,1:20.097,88,21,,,2008,12,3,2008-12-3.gif
+8,12,Timo Glock,GER,Panasonic Toyota Racing,1:20.421,78,11,,,2008,12,3,2008-12-3.gif
+9,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:20.614,89,99,,,2008,12,3,2008-12-3.gif
+1,03,Nick Heidfeld,GER,B Sauber F1 Team,1:20.896,97,35,,,2008,12,3,2008-12-3.gif
+1,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:20.188,71,30,,,2008,10,1,2008-10-1.gif
+2,23,Heikki Kovalainen,FIN,Vodafone Mlaren Mercedes,1:20.477,90,59,,,2008,10,1,2008-10-1.gif
+3,4,Robert Kubica,POL,Bsauber F1 Team,1:20.995,82,67,,,2008,10,1,2008-10-1.gif
+4,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:21.335,82,60,,,2008,10,1,2008-10-1.gif
+5,7,Nico Rosberg,GER,Att Williams,1:21.410,88,74,,,2008,10,1,2008-10-1.gif
+6,10,Mark Webber,AUS,Red Bul Racing,1:21.565,94,82,,,2008,10,1,2008-10-1.gif
+7,6,Nelson Piquet,BRA,Ing Renaut F1,1:21.797,68,59,,,2008,10,1,2008-10-1.gif
+8,16,Jenson Button,GBR,Honda Racing F1 Team,1:22.081,90,71,,,2008,10,1,2008-10-1.gif
+9,40,Vitantonio Liuzzi,ITA,Force India F1,1:22.250,108,87,,,2008,10,1,2008-10-1.gif
+10,15,Sebastianvettel,GER,Scuderia Toro Rosso,1:23.853,10,9,,,2008,10,1,2008-10-1.gif
+1,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:18.843,100,54,,,2008,12,2,2008-12-2.gif
+2,41,Pedro Dela Rosa,ESP,Vodafone Mclaren Mercedes,1:19.061,122,7,,,2008,12,2,2008-12-2.gif
+3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Mtarboro,1:19.446,76,33,,,2008,12,2,2008-12-2.gif
+4,7,Nico Rosberg,GER,Attwlliams,1:19.861,112,19,,,2008,12,2,2008-12-2.gif
+5,10,Markwebber,AUS,Red Bul Racing,1:20.021,105,16,,,2008,12,2,2008-12-2.gif
+6,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:20.416,77,9,,,2008,12,2,2008-12-2.gif
+7,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:20.534,81,11,,,2008,12,2,2008-12-2.gif
+8,40,Vitantonio Liuzi,ITA,Force India F1,1:20.577,102,27,,,2008,12,2,2008-12-2.gif
+9,6,Nelson Piquet,BRA,Ing Renaut F1,1:20.827,99,21,,,2008,12,2,2008-12-2.gif
+10,32,Christian Klien,AUT,B Sauber F1 Team,1:20.850,89,28,,,2008,12,2,2008-12-2.gif
+1,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:12.182,97,31,,,2008,2,1,2008-2-1.gif
+2,1,Kimi Raikkonen,FIN,Scuderia Ferrari Mtarboro,1:12.721,105,17,,,2008,2,1,2008-2-1.gif
+3,7,Nico Rosberg,GER,Attwilliams,1:12.838,84,39,,,2008,2,1,2008-2-1.gif
+5,41,Pedro Dela Rosa,ESP,Odafone Mclaren Mercedes,1:13.163,114,32,,,2008,2,1,2008-2-1.gif
+,65,Femando Alonso,ESP,Ing Renaut F1,1:13.315,96,28,,,2008,2,1,2008-2-1.gif
+7,8,Kazuki Nakajma,JPN,Attwilliams,1:13.473,94,37,,,2008,2,1,2008-2-1.gif
+8,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:13.627,86,22,,,2008,2,1,2008-2-1.gif
+10,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:13.675,80,20,,,2008,2,1,2008-2-1.gif
+11,3,Nick Heidfeld,GER,Bisauber F1 Team,1:13.779,80,17,,,2008,2,1,2008-2-1.gif
+12,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:13.820,69,61,,,2008,2,1,2008-2-1.gif
+15,40,Vitantonio Liuzzi,ITA,Force India F1,1:15.095,61,,,,2008,2,1,2008-2-1.gif
+16,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:15.440,49,30,,,2008,2,1,2008-2-1.gif
+1,6,Mark Webber,AUS,Red Bul Racing,1:21.487,109,46,25 February 2010,,2010,4,1,2010-4-1.gif
+2,10,Nico Hulkenberg,GER,Att Williams,1:22.407,32,79,25 February 2010,,2010,4,1,2010-4-1.gif
+3,4,Nico Ro Sberg,GER,Mercedes Gp Petronas,1:22.514,107,56,25 February 2010,,2010,4,1,2010-4-1.gif
+4,61,Pedro De La Rosa,ESP,Bmw Sauber F1 Team,1:23.144,73,72,25 February 2010,,2010,4,1,2010-4-1.gif
+5,1,Jenson Button,GBR,Vodafone Mclaren Mercedes,1:23.452,101,94,25 February 2010,,2010,4,1,2010-4-1.gif
+6,15,Vitantonio Liuzzi,ITA,Force Inda F1 Team,1:24.064,65,64,25 February 2010,,2010,4,1,2010-4-1.gif
+7,8,Femando Alonso,ESP,Scuderia Ferrari Marlboro,1:24.170,74,34,25 February 2010,,2010,4,1,2010-4-1.gif
+8,12,Vitaly Petrov,RUS,Renault F1 Team,1:24.173,74,86,25 February 2010,,2010,4,1,2010-4-1.gif
+9,17,Jaime Alguersuari,ESP,Scuderia Toro Rossc,1:24.869,111,60,25 February 2010,,2010,4,1,2010-4-1.gif
+10,25,Lucas Di Grassi,BRA,Virgin Racing,1:27.057,31,27,25 February 2010,,2010,4,1,2010-4-1.gif
+11,39,Fairuz Fauzy,MAS,Lotus Racing,1:28.002,76,73,25 February 2010,,2010,4,1,2010-4-1.gif
+1,7,Felipe Ma Ssa,BRA,Souderia Ferrari Marlborc,1:11.722,124,15,10 February 2010,,2010,1,2,2010-1-2.gif
+2,62,Kamui Kobaya Shi,JPN,Bmw Sauber F1 Team,1:12.056,96,24,10 February 2010,,2010,1,2,2010-1-2.gif
+3,2,Lewis Hamilton,GBR,Vodafone Mclaren Mercedes,1:12.256,108,78,10 February 2010,,2010,1,2,2010-1-2.gif
+4,11,Robert Kubica,POL,Renault F1 Team,1:12.426,119,114,10 February 2010,,2010,1,2,2010-1-2.gif
+5,4,Nico Ro Sberg,GER,Mercedes Gp Petronas,1:12.899,119,17,10 February 2010,,2010,1,2,2010-1-2.gif
+6,9,Rubens Barrichello,BRA,Att Williams,1:13.377,102,40,10 February 2010,,2010,1,2,2010-1-2.gif
+7,16,Sebastien Buem,SUI,Scuderia Toro Rosso,1:13.823,107,105,10 February 2010,,2010,1,2,2010-1-2.gif
+1,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:18.928,79,53,,,2008,7,2,2008-7-2.gif
+2,21,Giancarlo Fisichella,ITA,Force India F1,1:19.721,79,27,,,2008,7,2,2008-7-2.gif
+3,2,Felipe Massa,BRA,Scuderia Ferrari Vtarboro,1:20.283,113,89,,,2008,7,2,2008-7-2.gif
+4,9,David Coulthard,GBR,Red Bul Racing,1:20.392,89,46,,,2008,7,2,2008-7-2.gif
+5,22,Lewis Hamilton,GBR,Wdafone Laren Vercedes,1:20.452,96,11,,,2008,7,2,2008-7-2.gif
+,65,Femando Alonsc,ESP,Ing Renaut F1,1:20.616,119,110,,,2008,7,2,2008-7-2.gif
+7,7,Nico Rosberg,GER,Attwlliams,1:20.800,103,41,,,2008,7,2,2008-7-2.gif
+8,12,Timo Glock,GER,Panasonic Toyota Racing,1:20.870,112,86,,,2008,7,2,2008-7-2.gif
+,93,F1Nick Heidfeld,GER,B Sauber F1 Team,1:20.981,98,90,,,2008,7,2,2008-7-2.gif
+1,11,Sebastien Bubm,SUI,Scuderia Toro Rosso,1:41.528,65,28,,,2009,1,1,2009-1-1.gif
+2,31,Pedro Dela Rosa,ESP,Vodafone C Laren Vercedes,1:46.076,28,18,,,2009,1,1,2009-1-1.gif
+3,38,Nico Hulkenberg,GER,Attwilliams,1:46.335,28,13,,,2009,1,1,2009-1-1.gif
+,48,Nelson Piquet,BRA,Ing Renaut F1,1:48.907,33,31,,,2009,1,1,2009-1-1.gif
+5,35,F1Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:50.989,46,21,,,2009,1,1,2009-1-1.gif
+1,35,Sebastien Bubm,SUI,Red Bul Racing,1:17.704,71,64,,,2008,17,1,2008-17-1.gif
+2,3,Nick Heidfeld,GER,B Sauber F1 Team,1:19.223,75,32,,,2008,17,1,2008-17-1.gif
+3,75,Brendon Hartley,NZL,Red Bul Racing,1:19.586,3,39,,,2008,17,1,2008-17-1.gif
+4,32,Christian Klien,AUT,Bsauber F1 Team,1:19.655,95,55,,,2008,17,1,2008-17-1.gif
+5,34,F1Nico Hulkenberg,GER,Attwilliams,1:20.704,100,75,,,2008,17,1,2008-17-1.gif
+1,31,Jeaneric Vergne,FRA,Red Bul Racing,1:38.917,46,10,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+2,34,Sam Bird,GBR,Mercedes Gp Petronas F1 Team,1:40.897,104,92,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+3,33,Jules Bianchi,FRA,Souderia Ferrari,1:41.347,108,10,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+4,32,Oliver Turvey,GBR,Vodafone Mclaren Mercedes,1:41.513,39,75,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+5,37,Max Chilton,GBR,Force India F1 Team,1:41.575,79,77,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+6,58,Esteban Gutierrez,MEX,Sauber F1 Team,1:42.049,77,75,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+7,56,Mirko Bortolotti,ITA,Att Williams,1:43.277,74,69,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+8,59,Kevin Ceccon,ITA,Scuderia Toro Rosso,1:43.686,35,21,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+9,80,Alexander Rossi,USA,Team Lotus,1:44.283,74,70,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+10,35,Jan Charouz,CZE,Lotus Renault Gp,1:44.470,82,48,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+11,39,Stefano Coletti,MON,Souderia Toro Rosso,1:44.545,48,27,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+12,81,Nathanael Berthon,FRA,Hrt F1 Team,1:45.839,51,43,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+13,82,Robert Wickens,CAN,Marussia Virgin Racing,1:45.934,34,32,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+14,62,Charles Pic,FRA,Marussia Virgin Racing,1:46.348,49,18,17 November 2011,Abu dhabi,2011,5,3,2011-5-3.gif
+1,10,Timo Glock,GER,Panasonic Toyota Racing,1:19.814,142,132,,,2009,3,3,2009-3-3.gif
+2,3,Felipe Massa,BRA,Scuderia Ferrari Mtarboro,1:20.238,135,133,,,2009,3,3,2009-3-3.gif
+3,7,Femando Alonso,ESP,Ing Renaut F1,1:20.296,152,119,,,2009,3,3,2009-3-3.gif
+4,2,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:20.535,85,84,,,2009,3,3,2009-3-3.gif
+5,20,Adrian Sutil,GER,Force India F1,1:20.621,61,,,,2009,3,3,2009-3-3.gif
+6,14,Mark Webber,AUS,Red Bul Racing,1:21.021,98,54,,,2009,3,3,2009-3-3.gif
+7,5,Robert Kubica,POL,Bsauber F1 Team,1:21.069,98,78,,,2009,3,3,2009-3-3.gif
+8,16,Nico Rosberg,GER,Attwlliams,1:21.412,125,124,,,2009,3,3,2009-3-3.gif
+1,31,Jeaneric Vergne,FRA,Red Bul Racing,1:40.188,43,6,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+2,33,Jules Bianchi,FRA,Souderia Ferrari,1:40.279,91,85,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+3,52,Gary Paffett,GBR,Vodafone Mclaren Mercedes,1:41.756,71,46,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+4,36,Valtteri Botta S,FIN,Att Williams,1:42.367,88,82,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+5,57,Johnny Cecotto,VEN,Force India F1 Team,1:42.873,84,81,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+6,58,Esteban Gutierrez,MEX,Sauber F1 Team,1:43.637,96,17,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+7,34,Sam Bird,GBR,Mercedes Gp Petronas F1 Team,1:43.734,94,39,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+9,60,Luis Razia,BRA,Team Lotus,1:43.944,39,86,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+10,59,Kevin Ceccon,ITA,Scuderia Toro Rosso,1:44.808,97,72,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+11,61,Jan Charouz,CZE,Hrt F1 Team,1:46.644,56,55,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+12,62,Charles Pic,FRA,Marussia Virgin Racing,1:46.698,61,39,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+13,81,Nathanael Berthon,FRA,Hrt F1 Team,1:48.646,9,2,16 November 2011,Abu dhabi,2011,5,2,2011-5-2.gif
+1,55,Sebastian Vettel,GER,Red Bul Racing,1:19.751,70,51,,,2008,15,2,2008-15-2.gif
+2,57,Takuma Sato,JPN,Scuderia Toro Rosso,1:20.017,79,34,,,2008,15,2,2008-15-2.gif
+3,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.034,48,35,,,2008,15,2,2008-15-2.gif
+4,37,Sebastien Bu,SUI,Scuderia Toro Rosso,1:20.223,99,83,,,2008,15,2,2008-15-2.gif
+5,81,Ganypaffett1,GBR,Vodafone Mc Laren Mercedes,1:21.340,31,22,,,2008,15,2,2008-15-2.gif
+6,4,Robert Kubica,POL,B Sauber F1 Team,1:21.521,76,31,,,2008,15,2,2008-15-2.gif
+7,7,Nico Rosberg,GER,Attwlliams,1:21.525,113,93,,,2008,15,2,2008-15-2.gif
+8,16,Jenson Button,GBR,Honda Racing F1 Team,1:21.770,110,38,,,2008,15,2,2008-15-2.gif
+9,61,Ganypaffett7,GBR,Vodafone Mclaren Mercedes,1:21.835,46,16,,,2008,15,2,2008-15-2.gif
+10,20,Adrian Sutil,GER,Force India F1,1:22.073,58,25,,,2008,15,2,2008-15-2.gif
+11,79,Lucas Digrassi,BRA,Honda Racing F1 Team,1:22.283,110,97,,,2008,15,2,2008-15-2.gif
+12,6,Nelson Piquet,BRA,Ing Renaut F1,1:22.348,85,72,,,2008,15,2,2008-15-2.gif
+13,31,Luca Badoer,ITA,Scuderia Ferrari Ivtarboro,1:22.425,127,33,,,2008,15,2,2008-15-2.gif
+14,71,Marc Gene,ESP,Scuderia Ferrari Ivtarboro,1:22.772,31,18,,,2008,15,2,2008-15-2.gif
+1,53,Nick Heidfeld,GER,Bmsauber F1 Team,1:22.945,81,76,,,2008,15,2,2008-15-2.gif
+16,73,Giedo Van Der Garde,NED,Ing Renaut F1,1:23.250,37,36,,,2008,15,2,2008-15-2.gif
+17,60,Pedro Dela Rosa,ESP,Force India F1,1:23.499,86,45,,,2008,15,2,2008-15-2.gif
+,18,Fernando Alonso,ESP,Scuderia Ferrar Marlbora,1:11.470,127,,,,2010,1,3,2010-1-3.gif
+2,61,Pedro De Larosa,ESP,Bmwsauber F1 Team,1:12.094,80,11,,,2010,1,3,2010-1-3.gif
+,33,Michael Schumacher,GER,Mercedes Gp Petronas,1:12.438,82,24,,,2010,1,3,2010-1-3.gif
+4,17,Jaime Alguersuari,ESP,Scuderia Toro Rosso,1:12.576,97,16,,,2010,1,3,2010-1-3.gif
+6,12,Vitalypetrov,RUS,Renaul1 Team,1:13.097,75,71,,,2010,1,3,2010-1-3.gif
+7,10,Nico Hulkenberg,GER,Attwilans,1:13.669,126,70,,,2010,1,3,2010-1-3.gif
+1,11,Sebastien Bum,SUI,Scuderia Toro Rosso,1:34.429,48,34,,,2009,1,2,2009-1-2.gif
+2,31,Pedro Dela Rosa,ESP,Vodafone C Laren Vercedes,1:37.512,62,32,,,2009,1,2,2009-1-2.gif
+3,9,Jamo Trulli,ITA,Panasonic Toyota Racing,1:42.399,30,26,,,2009,1,2,2009-1-2.gif
+,48,Nelson Piquet,BRA,Ing Renaut F1,1:45.860,9,4,,,2009,1,2,2009-1-2.gif
+5,16,F1Nico Rosberg,GER,Attwilliams,1:51.580,31,16,,,2009,1,2,2009-1-2.gif
+1,35,Sebastien Bum,SUI,Red Bul Racing,1:17.029,83,77,,,2008,17,2,2008-17-2.gif
+2,55,Sebastian Vettel,GER,Red Bui Racing,1:17.319,83,83,,,2008,17,2,2008-17-2.gif
+3,3,Nick Heidfeld,GER,Bsauber F1 Team,1:19.303,85,43,,,2008,17,2,2008-17-2.gif
+4,4,Robert Kubica,POL,Bsauber F1 Team,1:20.006,61,24,,,2008,17,2,2008-17-2.gif
+,58,Kazuki Nakajma,JPN,Attwilliams,1:20.332,105,51,,,2008,17,2,2008-17-2.gif
+1,31,Jeaneric Vergne,FRA,Red Bul Racing,1:40.011,33,65,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+2,33,Jules Bianchi,FRA,Souderia Ferrari,1:40.960,35,56,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+3,35,Robert Wickens,CAN,Lotus Renault Gp,1:42.217,78,52,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+5,52,Gary Paffett,GBR,Vodafone Mclaren Mercedes,1:42.912,41,22,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+6,37,Max Chilton,GBR,Force India F1 Team,1:43.016,81,79,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+7,36,Valtteri Botta S,FIN,Att Williams,1:43.118,71,64,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+8,32,Oliver Turvey,GBR,Vodafone Mclaren Mercedes,1:43.502,35,13,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+9,34,Sam Bird,GBR,Mercedes Gp Petronas F1 Team,1:43.548,53,37,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+10,40,Rodolfo Gonzalez,VEN,Team Lotus,1:44.022,87,86,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+11,39,Stefano Coletti,MON,Souderia Toro Rosso,1:45.278,87,72,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+12,41,Dani Clos,ESP,Hrt F1 Team,1:45.329,68,63,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+13,62,Charles Pic,FRA,Marussia Virgin Racing,1:46.930,30,15,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+14,42,Adrian Quaife Hobbs,GBR,Rmarussia Virgin Racing,1:47.292,32,29,15 November 2011,Abu dhabi,2011,5,1,2011-5-1.gif
+1,55,Sebastian Vettel,GER,Red Bull Racing,1:16.617,107,74,17 December 2008,,2008,17,3,2008-17-3.gif
+2,35,Sebastien Buemi,SUI,Red Bull Racing,1:16.988,92,72,17 December 2008,,2008,17,3,2008-17-3.gif
+3,4,Robert Kubica,POL,Bmw Sauber F1 Team,1:19.013,100,91,17 December 2008,,2008,17,3,2008-17-3.gif
+4,32,Christian Klien,AUT,Bmw Sauber F1 Team,1:19.066,38,21,17 December 2008,,2008,17,3,2008-17-3.gif
+5,8,Kazuki Nakajima,JPN,Att Williams,1:19.341,131,84,17 December 2008,,2008,17,3,2008-17-3.gif
+1,9,Rubens Barrichello,BRA,Att Williams,1:27.145,98,65,18 February 2010,,2010,3,2,2010-3-2.gif
+2,12,Vitaly Petrov,RUS,Renault F1 Team,1:27.828,56,27,18 February 2010,,2010,3,2,2010-3-2.gif
+3,5,Sebastian Vettel,GER,Red Bul Racing,1:28.162,70,44,18 February 2010,,2010,3,2,2010-3-2.gif
+4,4,Nico Ro Sberg,GER,Mercedes Gp Petronas,1:28.515,71,86,18 February 2010,,2010,3,2,2010-3-2.gif
+5,7,Felipe Ma Ssa,BRA,Souderia Ferrari Marlborc,1:28.879,92,3,18 February 2010,,2010,3,2,2010-3-2.gif
+6,61,Pedro Dela Rosa,ESP,Bmw Sauber F1 Team,1:29.691,8,7,18 February 2010,,2010,3,2,2010-3-2.gif
+7,37,Paul Di Resta,GBR,Force India F1 Team,1:30.344,33,10,18 February 2010,,2010,3,2,2010-3-2.gif
+8,24,Timo Glock,GER,Virgin Racing,1:30.476,72,53,18 February 2010,,2010,3,2,2010-3-2.gif
+9,15,Vitantonio Liuzz,ITA,Force India F1 Team,1:30.666,24,7,18 February 2010,,2010,3,2,2010-3-2.gif
+10,2,Lewis Hamilton,GBR,Vodafone Mclaren Mercedes,1:30.979,57,49,18 February 2010,,2010,3,2,2010-3-2.gif
+11,16,Sebastien Buemi,SUI,Scuderia Toro Rosso,1:32.678,57,33,18 February 2010,,2010,3,2,2010-3-2.gif
+12,19,Heikki Kovalainen,FIN,Lous F1 Racing,1:33.554,30,16,18 February 2010,,2010,3,2,2010-3-2.gif
+1,22,Lewis Hamilton,GBR,Vodafone Mclaren Mercedes,1:15.483,75,42,,,2008,11,1,2008-11-1.gif
+2,1,Kimi Raikkonen,FIN,Scuderia Ferrari Mtarboro,1:15.803,43,,,,2008,11,1,2008-11-1.gif
+3,7,Nico Rosberg,GER,Attwlliams,1:16.099,87,18,,,2008,11,1,2008-11-1.gif
+4,20,Adrian Sutil,GER,Force India F1,1:16.516,97,41,,,2008,11,1,2008-11-1.gif
+5,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:16.533,113,110,,,2008,11,1,2008-11-1.gif
+6,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:16.570,65,63,,,2008,11,1,2008-11-1.gif
+F,1,Nick Heidfeld,GER,Bm Sauber F1 Team,1:16.593,59,25,,,2008,11,1,2008-11-1.gif
+8,6,Nelson Piquet,BRA,Ing Renaut F1,1:16.856,111,31,,,2008,11,1,2008-11-1.gif
+9,9,David Coulthard,GBR,Red Bul Racing,1:17.361,67,24,,,2008,11,1,2008-11-1.gif
+10,38,Alexander Wurz,AUT,Honda Racing F1 Team,1:17.825,89,9,,,2008,11,1,2008-11-1.gif
+1,10,Markwebber,AUS,Red Bul Racing,1:21.953,37,6,,,2008,7,4,2008-7-4.gif
+2,23,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:23.589,34,33,,,2008,7,4,2008-7-4.gif
+3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Mtarboro,1:23.619,34,32,,,2008,7,4,2008-7-4.gif
+4,4,Robert Kubica,POL,Bsauber F1 Team,1:24.715,32,28,,,2008,7,4,2008-7-4.gif
+5,16,Jenson Button,GBR,Honda Racing F1 Team,1:24.873,41,31,,,2008,7,4,2008-7-4.gif
+,68,Kazuki Nakajma,JPN,Attwilliams,1:24.927,62,57,,,2008,7,4,2008-7-4.gif
+7,6,Nelson Piquet,BRA,Ing Renaut F1,1:26.100,61,56,,,2008,7,4,2008-7-4.gif
+8,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:32.150,18,12,,,2008,7,4,2008-7-4.gif
+1,22,Lewis Hamilton,GBR,Odafone Mlaren Ercedes,1:22.967,97,37,,,2008,13,3,2008-13-3.gif
+2,1,Kimi Raikkonen,FIN,Scuderia Ferrari Mtarboro,1:23.371,79,62,,,2008,13,3,2008-13-3.gif
+3,21,Giancarlofisichella,ITA,Fore India F1,1:23.632,114,82,,,2008,13,3,2008-13-3.gif
+,48,Kazuki Nakajma,JPN,Attwilliams,1:23.634,99,33,,,2008,13,3,2008-13-3.gif
+5,9,David Coulthard,GBR,Red Bul Racing,1:23.737,120,118,,,2008,13,3,2008-13-3.gif
+6,5,Femando Alonso,ESP,Ing Renaut F1,1:23.820,80,62,,,2008,13,3,2008-13-3.gif
+7,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:23.865,77,39,,,2008,13,3,2008-13-3.gif
+8,12,Timo Glock,GER,Panasonic Toyota Racing,1:23.897,79,33,,,2008,13,3,2008-13-3.gif
+9,4,Robert Kubica,POL,Bm Sauber F1 Team,1:24.089,57,27,,,2008,13,3,2008-13-3.gif
+10,16,Jenson Butto,GBR,Honda Racing F1 Team,1:24.321,96,43,,,2008,13,3,2008-13-3.gif
+1,5,Femando Alonso,ESP,Ing Renaut F1,1:19.503,70,67,,,2008,1,2,2008-1-2.gif
+2,41,Pedro Dela Rosa,ESP,Wodafone Laren Mercedes,1:19.650,111,41,,,2008,1,2,2008-1-2.gif
+3,1,Kimi Raikkonen,FIN,Scuderia Ferrari Vtarboro,1:19.708,90,49,,,2008,1,2,2008-1-2.gif
+4,7,Nico Rosberg,GER,Attwilliams,1:19.755,81,50,,,2008,1,2,2008-1-2.gif
+5,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:19.772,86,33,,,2008,1,2,2008-1-2.gif
+6,23,Heikki Kovalainen,FIN,Vodafone Mc Laren Mercedes,1:19.780,130,71,,,2008,1,2,2008-1-2.gif
+7,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:20.305,98,28,,,2008,1,2,2008-1-2.gif
+8,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:20.346,76,21,,,2008,1,2,2008-1-2.gif
+9,10,Mark Webber,AUS,Red Bui Racing,1:20.392,80,55,,,2008,1,2,2008-1-2.gif
+1,08,Kazuki Nakajma,JPN,Attwlliams,1:20.525,68,45,,,2008,1,2,2008-1-2.gif
+11,12,Timo Glock,GER,Panasonic Toyota Racing,1:20.598,109,83,,,2008,1,2,2008-1-2.gif
+12,21,Giancarlo Fisichella,ITA,Force India F1,1:20.764,76,46,,,2008,1,2,2008-1-2.gif
+13,36,Kamui Kobayashi,JPN,Panasonic Toyota Racing,1:22.060,56,50,,,2008,1,2,2008-1-2.gif
+1,3,Nick Heidfeld,GER,Bsauber F1 Team,1:22.621,89,23,,,2008,13,2,2008-13-2.gif
+2,7,Nico Rosberg,GER,Attwlliams,1:22.879,100,33,,,2008,13,2,2008-13-2.gif
+3,23,Heikki Kovalainen,FIN,Vodafone C Laren Vercedes,1:23.341,92,74,,,2008,13,2,2008-13-2.gif
+4,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:23.424,47,30,,,2008,13,2,2008-13-2.gif
+5,2,Felipe Massa,BRA,Scuderia Ferrari Mvtarboro,1:23.445,86,13,,,2008,13,2,2008-13-2.gif
+6,5,Femando Alonso,ESP,Ing Renaut F1,1:23.606,95,41,,,2008,13,2,2008-13-2.gif
+7,20,Adrian Sutil,GER,Force India F1,1:23.823,92,41,,,2008,13,2,2008-13-2.gif
+8,10,Mark Webber,AUS,Red Bul Racing,1:23.936,101,38,,,2008,13,2,2008-13-2.gif
+9,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:24.158,77,37,,,2008,13,2,2008-13-2.gif
+10,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:24.311,44,17,,,2008,13,2,2008-13-2.gif
+11,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:24.695,51,18,,,2008,13,2,2008-13-2.gif
+12,16,Jenson Button,GBR,Honda Racing F1 Team,1:25.049,42,32,,,2008,13,2,2008-13-2.gif
+1,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:21.679,89,30,,,2008,3,2,2008-3-2.gif
+2,14,Sebastien Bourdais,FRA,Scuderia Toro Rosso,1:21.782,88,40,,,2008,3,2,2008-3-2.gif
+3,22,Lewis Hamilton,GBR,Odatone Laren Mercedes,1:22.135,80,73,,,2008,3,2,2008-3-2.gif
+4,23,Heikki Kovalainen,FIN,Odafone Mclaren Mercedes,1:22.511,70,63,,,2008,3,2,2008-3-2.gif
+5,4,Robert Kubica,POL,B Sauber F1 Team,1:22.833,90,11,,,2008,3,2,2008-3-2.gif
+,65,Femando Alonso,ESP,Ing Renaut F1,1:22.938,115,65,,,2008,3,2,2008-3-2.gif
+7,6,Nelson Piquet,BRA,Ing Renaut F1,1:23.002,115,28,,,2008,3,2,2008-3-2.gif
+8,3,Nick Heidfeld,GER,B Sauber F1 Team,1:23.014,75,72,,,2008,3,2,2008-3-2.gif
+9,10,Mark Webber,AUS,Red Bul Racing,1:23.020,94,43,,,2008,3,2,2008-3-2.gif
+10,9,David Coulthard,GBR,Red Bul Racing,1:23.322,85,10,,,2008,3,2,2008-3-2.gif
+11,7,Nico Rosberg,GER,Attwilliams,1:23.347,34,29,,,2008,3,2,2008-3-2.gif
+12,8,Kazuki Nakajma,JPN,Attwilliams,1:23.948,40,32,,,2008,3,2,2008-3-2.gif
+13,16,Jenson Button,GBR,Honda Racing F1 Team,1:23.959,58,42,,,2008,3,2,2008-3-2.gif
+14,40,Vitantonio Liuzzi,ITA,Force India F1,1:24.263,61,49,,,2008,3,2,2008-3-2.gif
+1,2,Felipe Massa,BRA,Scuderia Ferrari Ivtarboro,1:23.428,101,65,,,2008,13,1,2008-13-1.gif
+2,23,Heikki Kovalainen,FIN,Odafone Mlaren Ercedes,1:23.439,78,70,,,2008,13,1,2008-13-1.gif
+3,7,Nico Rosberg,GER,Attwlliams,1:23.461,60,25,,,2008,13,1,2008-13-1.gif
+4,15,Sebastian Vettel,GER,Scuderia Toro Rosso,1:23.691,99,96,,,2008,13,1,2008-13-1.gif
+5,17,Rubens Barrichello,BRA,Honda Racing F1 Team,1:23.827,85,79,,,2008,13,1,2008-13-1.gif
+6,10,Mark Webber,AUS,Red Bul Racing,1:24.005,96,92,,,2008,13,1,2008-13-1.gif
+F,1,Nick Heidfeld,GER,Bmsauber F1 Team,1:24.075,77,27,,,2008,13,1,2008-13-1.gif
+8,40,Vitantonio Liuzzi,ITA,Force India F1,1:24.239,99,95,,,2008,13,1,2008-13-1.gif
+9,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:24.510,92,39,,,2008,13,1,2008-13-1.gif
+1,06,Nelson Piquet,BRA,Ing Renaut F1,1:24.540,117,104,,,2008,13,1,2008-13-1.gif
+1,58,Andy Soucek,ESP,Attwlliams F1,1:19.158,87,70,,,2009,5,1,2009-5-1.gif
+2,60,Paul Di Resta,GBR,Force India F1,1:19.369,46,42,,,2009,5,1,2009-5-1.gif
+3,31,Gary Paffett,GBR,Vodafone C Laren Vercedes,1:19.426,54,51,,,2009,5,1,2009-5-1.gif
+4,37,Daniel Ricciardo,AUS,Red Bul Racing,1:19.534,113,64,,,2009,5,1,2009-5-1.gif
+5,32,Jules Bianchi,FRA,Scuderia Ferrari Mvtarboro,1:19.626,91,86,,,2009,5,1,2009-5-1.gif
+6,41,Mike Conay,GBR,Brawn Gp,1:19.920,58,47,,,2009,5,1,2009-5-1.gif
+7,33,Alexander Rossi,USA,Bsauber F1 Team,1:20.227,82,32,,,2009,5,1,2009-5-1.gif
+8,61,Marcus Ericsson,SWE,Brawn Gp,1:20.333,50,32,,,2009,5,1,2009-5-1.gif
+9,34,Bertrand Baguette,BEL,Renaut F1,1:20.511,105,94,,,2009,5,1,2009-5-1.gif
+10,40,Jr Hildebrand,USA,Force India F1,1:20.537,49,35,,,2009,5,1,2009-5-1.gif
+11,51,Oliver Turvey,GBR,Odafone Mclaren Mercedes,1:20.856,27,24,,,2009,5,1,2009-5-1.gif
+12,36,Brendon Hartley,NZL,Scuderia Toro Rosso,1:21.325,69,43,,,2009,5,1,2009-5-1.gif
+1,2,Felipe Massa,BRA,Scuderia Ferrari Lvtarboro,1:14.989,109,100,,,2008,11,3,2008-11-3.gif
+2,16,Jenson Button,GBR,Honda Racing F1 Team,1:15.081,121,75,,,2008,11,3,2008-11-3.gif
+3,23,Heikki Kovalainen,FIN,Odafone Mclaren Mercedes,1:15.289,123,40,,,2008,11,3,2008-11-3.gif
+4,10,Mark Webber,AUS,Red Bul Racing,1:15.378,118,34,,,2008,11,3,2008-11-3.gif
+5,15,Sebastianvettel,GER,Scuderia Toro Rosso,1:15.556,106,20,,,2008,11,3,2008-11-3.gif
+,65,Femando Alotso,ESP,Ing Renaut F1,1:15.593,115,50,,,2008,11,3,2008-11-3.gif
+7,8,Kazuki Nakaja,JPN,Attwilliams,1:15.759,119,65,,,2008,11,3,2008-11-3.gif
+8,4,Robert Kubica,POL,Bsauber F1 Team,1:15.869,107,17,,,2008,11,3,2008-11-3.gif
+9,11,Jamo Trulli,ITA,Panasonic Toyota Racing,1:16.065,129,80,,,2008,11,3,2008-11-3.gif
+10,21,Giancarlofisichella,ITA,Force India F1,1:16.113,74,34,,,2008,11,3,2008-11-3.gif
