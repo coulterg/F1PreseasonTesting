@@ -1,6 +1,6 @@
 # F1 Preseason Testing Parser
 
-This project extracts, standardizes, and compiles Formula 1 pre-season testing data from 2008–2025 using a combination of OCR, fuzzy matching, and manual validation. The final dataset is compatible with the [F1DB](https://github.com/rohandubey/f1db) schema and can be used for performance analysis, visualization, or statistical modeling.
+This project extracts, standardizes, and compiles Formula 1 pre-season testing data from 2008–2025 using a combination of OCR, fuzzy matching, and manual validation. The final dataset is compatible with the [F1DB](https://github.com/f1db/f1db/tree/main) schema and can be used for performance analysis, visualization, or statistical modeling.
 
 ---
 
